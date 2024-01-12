@@ -1,0 +1,909 @@
+Price,Beds,Baths,Sq-ft,Basement,Garage,Rooms,Annual Tax,Style,Year Built,Walkable Score,Bikeable Score,Address,City,Zip
+665000,4.0,2.5,2418.0,1,1,,11409.0,Single Family Residential,1979,44.0,40.0,"43 Sand Hills Rd,Kendall Park, NJ 08824",Kendall Park, 08824
+249900,2.0,1.0,936.0,0,0,4.0,5189.0,Condo/Co-op,1977,28.0,41.0,"280 College Dr #280,Edison, NJ 08817",Edison, 08817
+399000,3.0,1.0,1008.0,1,0,5.0,4926.0,Single Family Residential,1963,30.0,32.0,"616 Plainfield Ave,Piscataway, NJ 08854",Piscataway, 08854
+599900,3.0,3.5,,1,1,6.0,4385.0,Single Family Residential,1954,19.0,32.0,"313 Wadsworth Ave,South Plainfield, NJ 07080",South Plainfield, 07080
+289000,2.0,1.0,,1,0,5.0,4154.0,Single Family Residential,1923,41.0,35.0,"214 Seaview Ave,Old Bridge, NJ 08879",Old Bridge, 08879
+464900,3.0,2.0,,1,0,9.0,5608.0,Single Family Residential,,39.0,34.0,"147 Pulaski Ave,Sayreville, NJ 08872",Sayreville, 08872
+249000,2.0,1.0,888.0,1,0,,,Condo/Co-op,,26.0,33.0,"157D Pelham Ln,Monroe Twp., NJ 08831-3631",Monroe Twp., 08831-3631
+415000,2.0,2.0,1600.0,1,1,,3301.0,Single Family Residential,,13.0,28.0,"420-A Andover Dr,Monroe Township, NJ 08831",Monroe Township, 08831
+1189900,4.0,3.5,3400.0,1,1,,3170.0,Vacant Land,,74.0,75.0,"18 Cliff Ct,Highland Park, NJ 08904",Highland Park, 08904
+519900,3.0,1.5,,1,0,11.0,15344.0,Single Family Residential,1885,76.0,51.0,"142 Dunellen Ave,Dunellen, NJ 08812",Dunellen, 08812
+400000,3.0,1.0,,1,1,5.0,6756.0,Single Family Residential,1952,54.0,48.0,"44 Leber Ave,Carteret, NJ 07008",Carteret, 07008
+849900,4.0,2.5,,1,1,10.0,11008.0,Single Family Residential,1984,24.0,27.0,"134 Monmouth Rd,Monroe, NJ 08831",Monroe, 08831
+766900,4.0,4.0,2256.0,1,1,,11950.0,Townhouse,2016,33.0,35.0,"403 Ellsworth Way,Monmouth Junction, NJ 08852",Monmouth Junction, 08852
+695000,5.0,2.5,2019.0,1,1,9.0,12293.0,Single Family Residential,1956,5.0,17.0,"25 Colburn Rd,East Brunswick, NJ 08816",East Brunswick, 08816
+359000,3.0,1.0,1388.0,1,0,6.0,6205.0,Single Family Residential,,30.0,21.0,"38 Ash Ter,Sayreville, NJ 08859",Sayreville, 08859
+209000,2.0,2.0,1150.0,0,1,5.0,1331.0,Condo/Co-op,,35.0,33.0,"N Rossmoor Dr,Monroe, NJ 08831",Monroe, 08831
+475000,3.0,2.0,1004.0,1,0,9.0,9900.0,Single Family Residential,1953,74.0,49.0,"10 Labakan Pl,Highland Park, NJ 08904",Highland Park, 08904
+419000,,,1680.0,1,0,10.0,4419.0,Single Family Residential,1920,90.0,78.0,"168 Redmond St,New Brunswick, NJ 08901",New Brunswick, 08901
+290000,2.0,1.5,,1,0,6.0,7175.0,Single Family Residential,1963,64.0,48.0,"317 Merchants Ave,South Plainfield, NJ 07080",South Plainfield, 07080
+219900,1.0,1.0,854.0,0,0,4.0,5170.0,Condo/Co-op,2000,40.0,62.0,"2107 Windrow Dr #2107,Plainsboro, NJ 08540",Plainsboro, 08540
+375000,3.0,2.0,,1,0,9.0,7963.0,Single Family Residential,,45.0,37.0,"244 Kath St,Sayreville, NJ 08879",Sayreville, 08879
+1149800,,,5575.0,1,0,20.0,20147.0,Single Family Residential,1900,53.0,39.0,"150 Buckelew Ave,Jamesburg, NJ 08831",Jamesburg, 08831
+275000,2.0,2.0,1286.0,0,1,6.0,1957.0,Single Family Residential,,9.0,9.0,"B Benjamin Franklin Dr,Monroe, NJ 08831",Monroe, 08831
+550000,4.0,2.5,,1,1,8.0,11728.0,Single Family Residential,1984,4.0,34.0,"83 E Karnell Dr,Piscataway, NJ 08854",Piscataway, 08854
+549999,4.0,2.0,,1,1,7.0,9796.0,Single Family Residential,1967,52.0,50.0,"991 Grissom Ave,North Brunswick, NJ 08902",North Brunswick, 08902
+675000,5.0,3.0,2600.0,0,1,11.0,10700.0,Single Family Residential,1964,44.0,50.0,"71 Beechwood Ave,Edison, NJ 08837",Edison, 08837
+1350000,5.0,4.0,,1,1,9.0,5055.0,Vacant Land,,8.0,28.0,"179 River Rd,Monroe, NJ 08831",Monroe, 08831
+469900,2.0,2.0,1878.0,0,1,6.0,6594.0,Single Family Residential,1997,15.0,31.0,"5 Ramsey Way,Monroe, NJ 08831",Monroe, 08831
+400000,2.0,1.0,,1,0,,,Single Family Residential,1920,71.0,64.0,"75 GEORGES Rd,New Brunswick, NJ 08901",New Brunswick, 08901
+189000,,,,1,1,,6880.0,Single Family Residential,,25.0,32.0,"204 New Rd,South Brunswick, NJ 08852",South Brunswick, 08852
+499900,4.0,3.0,1948.0,0,1,9.0,9948.0,Single Family Residential,1974,77.0,54.0,"226 Prospect Ave,Dunellen, NJ 08812",Dunellen, 08812
+510000,3.0,2.5,2212.0,1,1,8.0,9766.0,Single Family Residential,1978,11.0,29.0,"10 Snowdrift Dr,Piscataway, NJ 08854",Piscataway, 08854
+424900,3.0,1.0,,1,1,72311.0,7741.0,Single Family Residential,1956,46.0,42.0,"12 Pine St,Edison, NJ 08817",Edison, 08817
+429000,2.0,2.0,1185.0,0,0,,2022.0,Condo/Co-op,2006,32.0,35.0,"8322 Falston Cir #8322,Old Bridge, NJ 08857",Old Bridge, 08857
+379000,3.0,1.0,,0,0,6.0,6550.0,Single Family Residential,1952,74.0,59.0,"36 Gurley Rd,Edison, NJ 08817",Edison, 08817
+575000,3.0,2.5,1981.0,1,1,7.0,13162.0,Single Family Residential,2002,27.0,33.0,"216 Hawthorne Rd,North Brunswick, NJ 08902",North Brunswick, 08902
+370000,2.0,2.5,1060.0,1,0,5.0,7753.0,Single Family Residential,1988,48.0,41.0,"1251 Marigold St,North Brunswick, NJ 08902",North Brunswick, 08902
+299900,2.0,1.0,,1,0,5.0,5283.0,Single Family Residential,1913,70.0,66.0,"7 Spring St,South River, NJ 08882",South River, 08882
+649900,3.0,3.5,2620.0,1,1,,10140.0,Single Family Residential,1998,15.0,28.0,"49 Harwood Rd,Monroe Township, NJ 08831",Monroe Township, 08831
+235000,1.0,1.0,975.0,1,0,,7289.0,Condo/Co-op,,33.0,56.0,"2430 Windrow Dr,Princeton, NJ 08540",Princeton, 08540
+599000,3.0,2.5,1548.0,1,1,7.0,10110.0,Single Family Residential,1955,57.0,44.0,"18 Barbara Ave,Spotswood, NJ 08884",Spotswood, 08884
+579000,3.0,2.0,1360.0,1,1,8.0,10336.0,Single Family Residential,1977,55.0,43.0,"9 Estok Rd,Edison, NJ 08817",Edison, 08817
+574900,4.0,2.5,,1,0,,,Single Family Residential,1932,59.0,63.0,"227 Prospect St,South Bound Brook Boro, NJ 08880-1129",South Bound Brook Boro, 08880-1129
+769990,3.0,3.0,2731.0,1,0,,,,,5.0,26.0,"18 Fillmore Dr,Monroe Township, NJ 08831",Monroe Township, 08831
+700000,3.0,1.0,,0,1,6.0,9425.0,Single Family Residential,1983,43.0,37.0,"40 Netherwood Cir,Edison, NJ 08820",Edison, 08820
+289000,2.0,2.0,1216.0,1,0,,3999.0,Single Family Residential,1985,27.0,31.0,"9 Arrowwood Ln,Monmouth Junction, NJ 08852",Monmouth Junction, 08852
+449000,3.0,1.5,1638.0,1,0,7.0,6619.0,Single Family Residential,1914,75.0,45.0,"359 John St,South Amboy, NJ 08879",South Amboy, 08879
+475000,3.0,1.0,1483.0,1,1,7.0,11195.0,Single Family Residential,1959,61.0,44.0,"195 S Moetz Dr S,Milltown, NJ 08850",Milltown, 08850
+358150,2.0,2.5,1842.0,0,1,6.0,4199.0,Single Family Residential,,36.0,37.0,"27 Rutland Ln Unit A,Monroe, NJ 08831",Monroe, 08831
+315000,3.0,2.0,1422.0,1,0,,5304.0,Condo/Co-op,1980,14.0,27.0,"1722 Country Mill Dr,Cranbury, NJ 08512",Cranbury, 08512
+710000,3.0,2.5,,1,1,,3766.0,Single Family Residential,,7.0,45.0,"42 Riverwalk,Plainsboro, NJ 08536",Plainsboro, 08536
+225000,2.0,1.0,797.0,1,0,5.0,3919.0,Single Family Residential,1939,45.0,46.0,"812 Summerfield Ave,South Amboy, NJ 08879",South Amboy, 08879
+349900,2.0,1.5,,1,1,5.0,5811.0,Single Family Residential,,12.0,20.0,"13 Chesterfield Way,Sayreville, NJ 08872",Sayreville, 08872
+929900,5.0,3.0,3000.0,1,1,14.0,7797.0,Single Family Residential,1922,55.0,47.0,"312 Central Ave,Edison, NJ 08817",Edison, 08817
+450000,3.0,1.5,1458.0,1,1,9.0,7076.0,Single Family Residential,1960,32.0,38.0,"147 Brewster Ave,Piscataway, NJ 08854",Piscataway, 08854
+319000,2.0,1.0,,1,0,6.0,5812.0,Single Family Residential,1914,72.0,58.0,"211 David St,South Amboy, NJ 08879",South Amboy, 08879
+450000,3.0,1.5,,1,0,7.0,6848.0,Single Family Residential,1955,36.0,29.0,"109 Wilson Ave,Sayreville, NJ 08859",Sayreville, 08859
+289900,2.0,2.0,,0,1,5.0,259.0,Single Family Residential,1986,20.0,27.0,"114 Griggs Pl,East Brunswick, NJ 08816",East Brunswick, 08816
+834900,5.0,3.0,2600.0,0,1,10.0,,Single Family Residential,1927,73.0,52.0,"3B Center St,Edison, NJ 08817",Edison, 08817
+199000,1.0,1.0,854.0,1,0,,5169.0,Condo/Co-op,,43.0,62.0,"2408 Windrow Dr,Princeton, NJ 08540",Princeton, 08540
+650000,3.0,3.5,,0,1,8.0,18030.0,Single Family Residential,,40.0,29.0,"53 Bond St,North Brunswick, NJ 08902",North Brunswick, 08902
+1069000,5.0,3.5,3071.0,1,1,11.0,16084.0,Single Family Residential,1998,1.0,25.0,"1 Mckinley Ct,Monroe, NJ 08831",Monroe, 08831
+265000,2.0,1.5,1154.0,1,0,6.0,1728.0,Single Family Residential,,46.0,38.0,"B Concordia Cir,Monroe, NJ 08831",Monroe, 08831
+299000,2.0,2.0,1070.0,1,0,7.0,3957.0,Single Family Residential,1909,67.0,62.0,"645 State St,Perth Amboy, NJ 08861",Perth Amboy, 08861
+599900,4.0,3.0,2050.0,0,0,7.0,8480.0,Single Family Residential,1960,28.0,31.0,"63 Kingsley Rd,South Brunswick, NJ 08824",South Brunswick, 08824
+225000,1.0,1.0,540.0,1,0,4.0,2678.0,Single Family Residential,1919,70.0,48.0,"648 Atlantic Ave,Perth Amboy, NJ 08861",Perth Amboy, 08861
+349900,3.0,2.0,1330.0,1,1,6.0,6001.0,Single Family Residential,1919,79.0,47.0,"445 Steadman Pl,Perth Amboy, NJ 08861",Perth Amboy, 08861
+325000,2.0,2.0,1118.0,0,1,5.0,4866.0,Condo/Co-op,,28.0,31.0,"361 Wycoff Way W,East Brunswick, NJ 08816",East Brunswick, 08816
+879900,4.0,2.5,2502.0,1,1,8.0,16312.0,Single Family Residential,1981,32.0,36.0,"4 Quaker St,Edison, NJ 08820",Edison, 08820
+209000,2.0,2.0,1150.0,0,0,,2022.0,Condo/Co-op,1972,27.0,33.0,"187N Rossmoor Dr Unit 187N,Monroe, NJ 08831",Monroe, 08831
+779000,4.0,2.5,2594.0,1,1,7.0,,Single Family Residential,,49.0,36.0,"C Plainfield Ave,Piscataway, NJ 08854",Piscataway, 08854
+359000,2.0,2.0,1132.0,0,0,5.0,5589.0,Single Family Residential,,30.0,66.0,"9220 Tamarron Dr,Plainsboro, NJ 08536",Plainsboro, 08536
+359900,2.0,2.0,1410.0,1,0,6.0,2154.0,Condo/Co-op,,41.0,34.0,"C Old Nassau Rd,Monroe, NJ 08831",Monroe, 08831
+486900,4.0,1.5,944.0,1,0,6.0,6326.0,Single Family Residential,1940,48.0,24.0,"28 Harrison St,Sayreville, NJ 08872",Sayreville, 08872
+321000,2.0,2.0,1185.0,1,0,4.0,5838.0,Condo/Co-op,2008,56.0,36.0,"540 Cranbury Rd #215,East Brunswick, NJ 08816",East Brunswick, 08816
+656000,2.0,2.5,1992.0,1,1,,10088.0,Single Family Residential,2018,31.0,30.0,"12 Republic Dr,Monroe Township, NJ 08831",Monroe Township, 08831
+700000,4.0,2.5,2132.0,1,1,8.0,8770.0,Single Family Residential,1965,51.0,38.0,"101 Calvert Ave E,Edison, NJ 08820",Edison, 08820
+510900,4.0,3.0,1691.0,1,1,7.0,9113.0,Single Family Residential,1960,66.0,41.0,"76 W Woodbridge Ave,Iselin, NJ 08830",Iselin, 08830
+299990,2.0,2.0,1260.0,0,0,6.0,1982.0,Condo/Co-op,,31.0,34.0,"236 Marblehead Ln Unit A,Monroe, NJ 08831",Monroe, 08831
+249999,,,,1,1,,3374.0,Single Family Residential,,70.0,50.0,"250 Main St,South Amboy, NJ 08879",South Amboy, 08879
+536000,3.0,1.5,2183.0,1,0,9.0,8903.0,Single Family Residential,1802,76.0,77.0,"609 Plainsboro Rd,Plainsboro, NJ 08536",Plainsboro, 08536
+469000,3.0,2.0,,1,1,6.0,8687.0,Single Family Residential,1908,66.0,44.0,"20 Broad St,Milltown, NJ 08850",Milltown, 08850
+325000,3.0,1.0,1075.0,1,0,6.0,6170.0,Single Family Residential,1952,46.0,39.0,"654 Dial Ave,Piscataway, NJ 08854",Piscataway, 08854
+369900,2.0,2.0,1300.0,0,0,5.0,8532.0,Condo/Co-op,1989,83.0,77.0,"30 S Adelaide Ave Unit 8A,Highland Park, NJ 08904",Highland Park, 08904
+350000,3.0,1.0,1308.0,0,0,7.0,5149.0,Single Family Residential,2001,42.0,41.0,"611 Blossom Cir,South Brunswick, NJ 08810",South Brunswick, 08810
+315000,2.0,2.0,1150.0,0,1,7.0,1724.0,Condo/Co-op,,24.0,32.0,"261 Middlebury Ln Unit N,Monroe, NJ 08831",Monroe, 08831
+639900,4.0,2.5,,1,1,8.0,12570.0,Single Family Residential,,42.0,42.0,"1226 S 9th St S,South Plainfield, NJ 07080",South Plainfield, 07080
+485000,3.0,1.0,1092.0,1,1,5.0,8843.0,Single Family Residential,1957,17.0,35.0,"140 Morris Ave,Edison, NJ 08837",Edison, 08837
+270000,2.0,2.0,1160.0,0,0,5.0,1747.0,Single Family Residential,,17.0,28.0,"626 Deal Rd Unit A,Monroe, NJ 08831",Monroe, 08831
+450000,2.0,2.5,1703.0,1,1,6.0,11197.0,Single Family Residential,1964,53.0,48.0,"873 Bradley St,North Brunswick, NJ 08902",North Brunswick, 08902
+409900,2.0,2.5,,1,0,,2022.0,Single Family Residential,,27.0,21.0,"8 Winsor Ct,Sayreville, NJ 08872",Sayreville, 08872
+749900,2.0,3.5,2341.0,1,1,7.0,12000.0,Single Family Residential,,0.0,21.0,"908 Charleston Dr,Monroe, NJ 08831",Monroe, 08831
+549900,3.0,3.0,1448.0,1,1,6.0,9180.0,Single Family Residential,1965,78.0,54.0,"21 Sheppard Pl,Edison, NJ 08817",Edison, 08817
+735000,4.0,2.5,3277.0,1,1,8.0,18901.0,Single Family Residential,1975,48.0,29.0,"973 Curtis Pl,North Brunswick, NJ 08902",North Brunswick, 08902
+325000,2.0,2.0,1118.0,0,0,,2022.0,Townhouse,1986,28.0,31.0,"361 Wycoff Way #361,East Brunswick, NJ 08816",East Brunswick, 08816
+399900,2.0,1.0,1008.0,1,1,5.0,3670.0,Single Family Residential,1966,67.0,58.0,"50 Bonnie Brook Ave,Edison, NJ 08817",Edison, 08817
+339000,2.0,1.0,,1,0,7.0,4800.0,Single Family Residential,1947,61.0,36.0,"21 Erickson Ave,Monroe, NJ 08831",Monroe, 08831
+650000,4.0,2.5,2435.0,1,1,8.0,10835.0,Single Family Residential,1974,71.0,51.0,"53 Campbell Ave,Edison, NJ 08817",Edison, 08817
+360000,3.0,1.0,2112.0,1,0,,,Single Family Residential,1924,66.0,45.0,"17 Grant Ave,Carteret, NJ 07008",Carteret, 07008
+759900,4.0,2.5,2032.0,1,1,,13782.0,Single Family Residential,1979,8.0,37.0,"121 Parker Rd,Plainsboro, NJ 08536",Plainsboro, 08536
+99000,,,,1,1,,1191.0,Other,,93.0,71.0,"214 George St,New Brunswick, NJ 08901",New Brunswick, 08901
+826000,5.0,3.5,,1,1,9.0,1.0,Single Family Residential,1950,56.0,55.0,"8 Burnham Rd,East Brunswick, NJ 08816",East Brunswick, 08816
+499900,4.0,1.0,,1,1,10.0,6277.0,Single Family Residential,1954,58.0,30.0,"697 Old Bridge Tpke,East Brunswick, NJ 08816",East Brunswick, 08816
+425000,,,1464.0,1,0,8.0,9912.0,Multi-Family (2-4 Unit),,82.0,51.0,"9 Barnard St,Highland Park, NJ 08904",Highland Park, 08904
+130000,,1.0,403.0,0,0,1.0,2544.0,Condo/Co-op,1987,87.0,47.0,"40 Fayette St #21,Perth Amboy, NJ 08861",Perth Amboy, 08861
+625000,5.0,2.0,2170.0,1,0,6.0,9895.0,Single Family Residential,1928,82.0,51.0,"1158 Raritan Ave,Highland Park, NJ 08904",Highland Park, 08904
+107738,1.0,1.0,786.0,1,0,,2460.0,Condo/Co-op,,33.0,68.0,"8111 Tamarron Dr,Plainsboro, NJ 08536",Plainsboro, 08536
+549999,3.0,1.5,,1,1,8.0,2022.0,Single Family Residential,1959,35.0,37.0,"1809 Wickford Rd,South Plainfield, NJ 07080",South Plainfield, 07080
+449999,2.0,1.0,1257.0,1,0,5.0,7698.0,Single Family Residential,1914,73.0,48.0,"255 Grove St,Woodbridge Proper, NJ 07095",Woodbridge Proper, 07095
+699900,4.0,3.0,,1,1,11.0,4245.0,Other,1955,44.0,46.0,"175 E Elm St,Carteret, NJ 07008",Carteret, 07008
+735490,3.0,3.0,2452.0,1,0,,,,,8.0,30.0,"Apollo Plan,Monroe Township, NJ 08831",Monroe Township, 08831
+550000,3.0,2.0,,1,1,9.0,7166.0,Single Family Residential,,36.0,29.0,"40 Cottonwood Dr,Sayreville, NJ 08872",Sayreville, 08872
+609900,3.0,2.5,1842.0,1,1,,9119.0,Townhouse,1999,47.0,42.0,"2004 Dahlia Cir,Dayton, NJ 08810",Dayton, 08810
+535000,4.0,2.0,1743.0,1,1,9.0,10091.0,Single Family Residential,1967,31.0,40.0,"1217 Dakota Rd,North Brunswick, NJ 08902",North Brunswick, 08902
+449900,3.0,2.0,,1,1,8.0,7406.0,Single Family Residential,,49.0,43.0,"131 Jackson Ave,South Plainfield, NJ 07080",South Plainfield, 07080
+549000,5.0,2.0,,0,1,8.0,9162.0,Single Family Residential,1960,68.0,50.0,"21 Eardley Rd,Edison, NJ 08817",Edison, 08817
+299999,2.0,1.0,,0,0,6.0,4958.0,Single Family Residential,,69.0,34.0,"61 Cricket Ln,Woodbridge Proper, NJ 07095",Woodbridge Proper, 07095
+712865,3.0,2.5,,0,1,6.0,5500.0,Single Family Residential,,35.0,38.0,"206 Lyla Ln,New Brunswick, NJ 08901",New Brunswick, 08901
+325000,3.0,1.5,,0,0,7.0,6881.0,Single Family Residential,,30.0,21.0,"44 Kendall Dr,Sayreville, NJ 08859",Sayreville, 08859
+685000,4.0,2.5,2068.0,0,1,8.0,13798.0,Single Family Residential,1998,7.0,18.0,"4 Berkshire Way,East Brunswick, NJ 08816",East Brunswick, 08816
+549900,4.0,2.5,,1,0,8.0,11602.0,Single Family Residential,1960,65.0,44.0,"117 Benart Pl,Middlesex, NJ 08846",Middlesex, 08846
+269900,1.0,1.0,,1,0,,,Condo/Co-op,,62.0,55.0,"119 Elizabeth St #424,South Bound Brook Boro, NJ 08880-1267",South Bound Brook Boro, 08880-1267
+375000,2.0,1.0,,1,1,6.0,6343.0,Single Family Residential,,30.0,28.0,"54 Horseshoe Rd,Sayreville, NJ 08872",Sayreville, 08872
+529900,3.0,2.5,,1,0,,,Multi-Family (2-4 Unit),,80.0,41.0,"756A Middlesex Ave,Metuchen Boro, NJ 08840-2269",Metuchen Boro, 08840-2269
+650000,,,,1,0,,,Vacant Land,,39.0,28.0,"0 Kearney Ave,South Amboy, NJ 08879",South Amboy, 08879
+535000,3.0,2.5,1680.0,0,1,8.0,8262.0,Single Family Residential,1984,38.0,39.0,"16 Sandpiper Ln,South Brunswick, NJ 08810",South Brunswick, 08810
+500000,2.0,2.5,1684.0,1,1,8.0,7083.0,Single Family Residential,,14.0,44.0,"14 Ironwood Ct,South Brunswick, NJ 08852",South Brunswick, 08852
+299999,2.0,2.0,1296.0,1,1,,2898.0,Condo/Co-op,,16.0,30.0,"94 Winthrop Dr Unit I,Monroe Township, NJ 08831",Monroe Township, 08831
+499000,4.0,2.0,1680.0,1,0,8.0,8013.0,Single Family Residential,1914,78.0,54.0,"113 S Pine Ave S,South Amboy, NJ 08879",South Amboy, 08879
+399900,3.0,1.5,,0,1,5.0,6037.0,Condo/Co-op,1989,68.0,50.0,"63 Larch St,Carteret, NJ 07008",Carteret, 07008
+379999,3.0,1.5,,1,0,7.0,4857.0,Single Family Residential,1897,40.0,36.0,"5 Keegan Pl,Sayreville, NJ 08872",Sayreville, 08872
+399750,4.0,2.0,,0,0,8.0,5510.0,Single Family Residential,1929,30.0,36.0,"410 Elsie Ave,South Plainfield, NJ 07080",South Plainfield, 07080
+199900,1.0,1.0,546.0,1,0,4.0,3988.0,Single Family Residential,1956,53.0,44.0,"58 Manalapan Rd,Spotswood, NJ 08884",Spotswood, 08884
+339000,,,3002.0,1,0,,9421.0,Single Family Residential,1914,72.0,55.0,"340 4th St,South Amboy, NJ 08879",South Amboy, 08879
+579900,4.0,2.0,,0,0,6.0,3000.0,Single Family Residential,1952,58.0,42.0,"72 Ashley Rd,Edison, NJ 08817",Edison, 08817
+449900,3.0,1.5,1344.0,1,0,6.0,10386.0,Single Family Residential,1946,20.0,27.0,"840 Adelaide Ave,Woodbridge Proper, NJ 07095",Woodbridge Proper, 07095
+874990,4.0,2.5,2605.0,1,0,,,,,0.0,25.0,"Tomasen Plan,Old Bridge, NJ 08857",Old Bridge, 08857
+239000,2.0,1.0,903.0,0,0,5.0,3850.0,Condo/Co-op,1977,28.0,41.0,"288 College Dr #288,Edison, NJ 08817",Edison, 08817
+449999,3.0,2.0,1590.0,1,0,,,Single Family Residential,1903,79.0,53.0,"307 Madison Ave,Dunellen Boro, NJ 08812-1101",Dunellen Boro, 08812-1101
+1149775,3.0,3.0,3037.0,1,1,,16975.0,Single Family Residential,,6.0,26.0,"8 Cole Pl,Cranbury, NJ 08512",Cranbury, 08512
+539000,4.0,1.5,,1,1,8.0,8247.0,Single Family Residential,1972,9.0,35.0,"261 Hanson Ave,Piscataway, NJ 08854",Piscataway, 08854
+549900,2.0,2.0,2500.0,1,0,,,Single Family Residential,,95.0,51.0,"620 Middlesex Ave,Metuchen Boro, NJ 08840-1864",Metuchen Boro, 08840-1864
+459900,3.0,1.0,1376.0,1,1,7.0,9064.0,Single Family Residential,1908,83.0,52.0,"426 Dunellen Ave,Dunellen, NJ 08812",Dunellen, 08812
+265999,2.0,1.0,1049.0,1,0,,,Townhouse,1989,36.0,35.0,"3708 Birchwood Ct,North Brunswick, NJ 08902",North Brunswick, 08902
+499900,5.0,2.0,,1,0,11.0,7967.0,Single Family Residential,1899,81.0,51.0,"467 Park Ave,Perth Amboy, NJ 08861",Perth Amboy, 08861
+475000,3.0,2.0,1379.0,1,0,6.0,7563.0,Single Family Residential,1939,74.0,49.0,"7 Wilmot St,East Brunswick, NJ 08816",East Brunswick, 08816
+419900,3.0,1.0,,1,0,,,Single Family Residential,1961,10.0,33.0,"401 Lodge St,Piscataway Twp., NJ 08854-2308",Piscataway Twp., 08854-2308
+576000,4.0,2.0,1827.0,1,1,8.0,12140.0,Single Family Residential,1970,33.0,38.0,"320 Washington Pl,North Brunswick, NJ 08902",North Brunswick, 08902
+500000,4.0,2.0,,1,1,7.0,7014.0,Single Family Residential,,34.0,27.0,"47 Merritt Ave,South Amboy, NJ 08879",South Amboy, 08879
+579000,3.0,2.5,1926.0,1,1,8.0,12633.0,Multi-Family (2-4 Unit),2005,38.0,39.0,"1020 Spring St,North Brunswick, NJ 08902",North Brunswick, 08902
+99900,,,,1,1,,2526.0,Single Family Residential,,18.0,28.0,"241 Deans Ln,South Brunswick, NJ 08852",South Brunswick, 08852
+775000,4.0,3.0,3252.0,1,1,10.0,12651.0,Single Family Residential,1988,23.0,34.0,"12 Ascot Pl,North Brunswick, NJ 08902",North Brunswick, 08902
+800000,5.0,2.5,,1,1,9.0,13572.0,Single Family Residential,1987,48.0,34.0,"13 Churchill Rd,Edison, NJ 08820",Edison, 08820
+255000,3.0,1.0,1323.0,1,0,7.0,3943.0,Single Family Residential,1900,79.0,71.0,"265 Delavan St,New Brunswick, NJ 08901",New Brunswick, 08901
+325000,2.0,1.5,,0,1,7.0,2286.0,Single Family Residential,,18.0,28.0,"376 Stirling Dr Unit B,Monroe, NJ 08831",Monroe, 08831
+339000,2.0,1.0,780.0,1,0,6.0,4089.0,Single Family Residential,1924,48.0,49.0,"400 Wagner Ave,Perth Amboy, NJ 08861",Perth Amboy, 08861
+775000,2.0,2.0,2270.0,1,1,,14194.0,Single Family Residential,,35.0,51.0,"9 Empress Ct,Princeton, NJ 08540",Princeton, 08540
+399000,3.0,1.0,1325.0,1,1,8.0,7911.0,Single Family Residential,1945,62.0,48.0,"147 Lee Ave,Hopelawn, NJ 08861",Hopelawn, 08861
+107739,1.0,1.0,786.0,0,0,5.0,2461.0,Condo/Co-op,1986,33.0,68.0,"8111 Tamarron Dr #8111,Plainsboro, NJ 08536",Plainsboro, 08536
+450000,2.0,2.0,1306.0,1,0,,6767.0,Condo/Co-op,,1.0,24.0,"726 Stiller Ln,Jamesburg, NJ 08831",Jamesburg, 08831
+525000,2.0,2.0,2110.0,0,0,6.0,13600.0,Condo/Co-op,1989,83.0,77.0,"30 S Adelaide Ave S Unit 7F,Highland Park, NJ 08904",Highland Park, 08904
+389000,2.0,2.0,1196.0,0,1,6.0,6123.0,Single Family Residential,,39.0,42.0,"1601 Jesse Way,Piscataway, NJ 08854",Piscataway, 08854
+635000,4.0,2.5,2100.0,1,1,8.0,,Single Family Residential,,70.0,56.0,"1099 Riverton St,North Brunswick, NJ 08902",North Brunswick, 08902
+594500,3.0,2.5,1981.0,1,1,7.0,13342.0,Single Family Residential,2002,34.0,35.0,"65 Heatherwood Dr,North Brunswick, NJ 08902",North Brunswick, 08902
+425000,4.0,2.0,,1,1,6.0,6971.0,Single Family Residential,,30.0,35.0,"1816 S Central Ave,South Plainfield, NJ 07080",South Plainfield, 07080
+269900,2.0,1.0,1092.0,0,0,5.0,1401.0,Condo/Co-op,1967,33.0,32.0,"1B Old Nassau Rd Unit 1B,Monroe, NJ 08831",Monroe, 08831
+899900,4.0,2.5,2539.0,1,1,,12429.0,Single Family Residential,2005,0.0,21.0,"24 Bard Dr,Monroe Township, NJ 08831",Monroe Township, 08831
+409900,2.0,2.5,,1,1,6.0,6920.0,Condo/Co-op,,27.0,21.0,"8 Winsor Ct #2808,Sayreville, NJ 08872",Sayreville, 08872
+175000,,,,1,0,,,Single Family Residential,,76.0,49.0,"1 Highland St,East Brunswick, NJ 08816",East Brunswick, 08816
+219900,1.0,1.0,854.0,1,0,,5169.0,Condo/Co-op,,43.0,62.0,"2107 Windrow Dr,Princeton, NJ 08540",Princeton, 08540
+405000,3.0,1.0,1526.0,1,0,6.0,8699.0,Single Family Residential,1907,76.0,51.0,"130 Dunellen Ave,Dunellen, NJ 08812",Dunellen, 08812
+415000,5.0,2.0,,1,0,8.0,3556.0,Single Family Residential,1930,29.0,26.0,"940 Grove Ave,Old Bridge, NJ 08879",Old Bridge, 08879
+80000,2.0,1.0,,0,0,5.0,,Mobile/Manufactured Home,,48.0,41.0,"39 Helen Ave,Avenel, NJ 07001",Avenel, 07001
+1800000,5.0,4.5,4200.0,1,1,8.0,13234.0,Other,1964,33.0,38.0,"2 Colonial Ct,Edison, NJ 08820",Edison, 08820
+500000,3.0,1.0,,1,0,9.0,8001.0,Single Family Residential,1952,73.0,62.0,"15 Douglas Rd,East Brunswick, NJ 08816",East Brunswick, 08816
+450000,3.0,2.0,,1,0,6.0,5794.0,Single Family Residential,,41.0,24.0,"1 Ida St,Sayreville, NJ 08872",Sayreville, 08872
+515000,3.0,2.5,1696.0,1,1,6.0,8704.0,Single Family Residential,,66.0,52.0,"721 Drake Ave,Middlesex, NJ 08846",Middlesex, 08846
+900000,5.0,3.0,,0,1,10.0,9626.0,Single Family Residential,1979,59.0,45.0,"99 Finnegans Ln,South Brunswick, NJ 08824",South Brunswick, 08824
+239000,2.0,1.0,1204.0,1,1,8.0,1304.0,Single Family Residential,,32.0,30.0,"B Sussex Way Unit B,Monroe, NJ 08831",Monroe, 08831
+615000,3.0,2.0,1883.0,1,1,,,Single Family Residential,2004,2.0,28.0,"10 Longstreet Ln,Cranbury, NJ 08512",Cranbury, 08512
+519500,,,1275.0,1,1,7.0,7318.0,Single Family Residential,1922,86.0,56.0,"38 Laurel Pl,New Brunswick, NJ 08901",New Brunswick, 08901
+1499000,9.0,9.0,5031.0,1,0,,,Vacant Land,,71.0,67.0,"543 E 2Nd St,Bound Brook Boro, NJ 08805-2040",Bound Brook Boro, 08805-2040
+510000,3.0,1.5,1665.0,1,1,7.0,10465.0,Single Family Residential,1970,49.0,38.0,"5 Weiss Dr,Middlesex, NJ 08846",Middlesex, 08846
+498000,2.0,1.0,1136.0,1,1,6.0,7797.0,Single Family Residential,1961,28.0,37.0,"342 Ridge Rd,South Brunswick, NJ 08810",South Brunswick, 08810
+549999,4.0,2.5,,0,1,8.0,7428.0,Single Family Residential,1986,31.0,39.0,"29 Jeffrey Cir,South Brunswick, NJ 08810",South Brunswick, 08810
+340000,2.0,2.0,,1,0,,,Single Family Residential,1985,25.0,28.0,"208 Wycoff Way,East Brunswick Twp., NJ 08816-5644",East Brunswick Twp., 08816-5644
+155000,,,,1,0,,2212.0,Single Family Residential,,6.0,23.0,"00 Westley Rd,Old Bridge, NJ 08857",Old Bridge, 08857
+574000,3.0,2.0,1772.0,1,1,7.0,9294.0,Single Family Residential,1987,10.0,38.0,"82 Bristol Rd,Piscataway, NJ 08854",Piscataway, 08854
+585000,4.0,1.0,1632.0,1,1,8.0,7247.0,Single Family Residential,1940,41.0,35.0,"3854 Us Highway 9 Hwy,Old Bridge, NJ 08857",Old Bridge, 08857
+599999,4.0,2.5,2147.0,1,0,7.0,6341.0,Single Family Residential,1958,49.0,43.0,"81 Austin Ave,Old Bridge, NJ 08857",Old Bridge, 08857
+519000,2.0,2.0,1750.0,1,1,6.0,10114.0,Single Family Residential,1983,24.0,28.0,"12 Anne Ter,South Amboy, NJ 08879",South Amboy, 08879
+689900,4.0,2.5,1980.0,1,1,8.0,11612.0,Single Family Residential,1967,46.0,38.0,"67 Hilltop Blvd,East Brunswick, NJ 08816",East Brunswick, 08816
+550000,5.0,2.5,2089.0,1,1,8.0,8096.0,Condo/Co-op,1986,28.0,22.0,"67 Nottingham Dr #33,Old Bridge, NJ 08857",Old Bridge, 08857
+769000,6.0,4.0,2500.0,1,0,,,Single Family Residential,,69.0,51.0,"9A Wright Pl,New Brunswick City, NJ 08901-3228",New Brunswick City, 08901-3228
+344000,2.0,2.0,1297.0,0,1,5.0,6331.0,Condo/Co-op,2007,78.0,42.0,"368 Rector St #405,Perth Amboy, NJ 08861",Perth Amboy, 08861
+660000,5.0,3.0,7501.0,1,1,9.0,10497.0,Single Family Residential,,40.0,35.0,"7 Stegiel Pl,Sayreville, NJ 08872",Sayreville, 08872
+364900,3.0,2.0,,0,1,8.0,3515.0,Single Family Residential,,35.0,31.0,"130-A Balsam Plz,Monroe, NJ 08831",Monroe, 08831
+280000,2.0,2.5,,0,0,6.0,5712.0,Single Family Residential,,67.0,48.0,"10 Lake Ave,East Brunswick, NJ 08816",East Brunswick, 08816
+372818,,,1216.0,1,0,,,Multi-Family (2-4 Unit),1978,71.0,48.0,"86 Locust St,Carteret, NJ 07008",Carteret, 07008
+534900,4.0,2.0,1556.0,1,1,9.0,9419.0,Single Family Residential,1953,28.0,32.0,"24 Bruning Ln,Spotswood, NJ 08884",Spotswood, 08884
+299999,2.0,2.0,1296.0,0,1,6.0,2650.0,Single Family Residential,1992,18.0,30.0,"94I Winthrop Rd Unit 94I,Monroe, NJ 08831",Monroe, 08831
+1490000,5.0,4.5,3700.0,1,1,10.0,3876.0,Single Family Residential,,1.0,20.0,"2 Joye Ln,South Brunswick, NJ 08852",South Brunswick, 08852
+224888,2.0,1.0,990.0,0,0,5.0,1382.0,Single Family Residential,,13.0,27.0,"277 Crosse Dr Unit 2E,Monroe, NJ 08831",Monroe, 08831
+389500,2.0,1.0,897.0,1,0,4.0,6584.0,Single Family Residential,1919,73.0,55.0,"367 5th St,South Amboy, NJ 08879",South Amboy, 08879
+839000,5.0,3.0,2590.0,1,1,9.0,6545.0,Single Family Residential,1951,64.0,51.0,"58 Runyon Ave,Edison, NJ 08817",Edison, 08817
+399000,3.0,1.5,1282.0,1,1,6.0,5920.0,Single Family Residential,1930,65.0,57.0,"42 S Talmadge St,New Brunswick, NJ 08901",New Brunswick, 08901
+450000,2.0,2.5,1419.0,1,1,8.0,8431.0,Condo/Co-op,2003,12.0,37.0,"18 Hanna Ln #298,South Amboy, NJ 08879",South Amboy, 08879
+345000,2.0,2.0,1339.0,0,1,4.0,6967.0,Single Family Residential,2007,78.0,42.0,"368 Rector St #304,Perth Amboy, NJ 08861",Perth Amboy, 08861
+639999,3.0,2.5,1808.0,1,1,,10538.0,Single Family Residential,1994,18.0,54.0,"66 Ashford Dr,Plainsboro, NJ 08536",Plainsboro, 08536
+999900,4.0,5.0,,1,0,,,Single Family Residential,1964,0.0,24.0,"1040 Mayflower Ct,Bridgewater Twp., NJ 08836-2324",Bridgewater Twp., 08836-2324
+549000,4.0,2.5,1800.0,0,1,7.0,8806.0,Single Family Residential,1969,60.0,40.0,"2 Bud Ct,Perth Amboy, NJ 08861",Perth Amboy, 08861
+325000,2.0,2.0,1228.0,0,0,9.0,6999.0,Single Family Residential,,20.0,23.0,"1702 Cypress Ln,East Brunswick, NJ 08816",East Brunswick, 08816
+450000,3.0,2.0,1092.0,1,1,6.0,7954.0,Single Family Residential,1925,61.0,47.0,"62 New Brunswick Ave,Hopelawn, NJ 08861",Hopelawn, 08861
+499900,2.0,2.0,1599.0,1,1,6.0,7001.0,Single Family Residential,,32.0,35.0,"8206 Falston Cir #06,Old Bridge, NJ 08857",Old Bridge, 08857
+500000,3.0,2.0,1894.0,1,1,6.0,9398.0,Single Family Residential,1976,34.0,33.0,"55 Calliope Rd,Sayreville, NJ 08872",Sayreville, 08872
+675000,3.0,1.0,1175.0,1,1,9.0,7060.0,Single Family Residential,1955,44.0,37.0,"1233 Englishtown Rd,Old Bridge, NJ 08857",Old Bridge, 08857
+719900,3.0,2.5,3045.0,1,0,,,,,2.0,26.0,"The Willow Plan,Old Bridge, NJ 08857",Old Bridge, 08857
+439000,3.0,2.0,1244.0,1,0,6.0,5606.0,Single Family Residential,1925,54.0,35.0,"78 Smullen St,Sayreville, NJ 08872",Sayreville, 08872
+350000,2.0,2.0,,1,0,,,Condo/Co-op,,64.0,44.0,"107C Keystone Ct #107,Woodbridge Twp., NJ 07095-1433",Woodbridge Twp., 07095-1433
+599000,,,1820.0,1,0,11.0,8013.0,Single Family Residential,1949,40.0,43.0,"151 New York Ave,South Plainfield, NJ 07080",South Plainfield, 07080
+899000,6.0,3.0,,1,1,16.0,9665.0,Single Family Residential,,55.0,27.0,"9 Driftwood Dr,Sayreville, NJ 08859",Sayreville, 08859
+575000,3.0,2.5,2240.0,1,1,8.0,15746.0,Single Family Residential,2017,40.0,28.0,"70 Fleet St,North Brunswick, NJ 08902",North Brunswick, 08902
+499990,2.0,2.0,1499.0,0,1,6.0,6839.0,Condo/Co-op,,32.0,35.0,"7318 Falston Cir,Old Bridge, NJ 08857",Old Bridge, 08857
+57000,2.0,1.0,,1,0,4.0,,Mobile/Manufactured Home,,40.0,41.0,"26 Dalbert St Unit M-11,Carteret, NJ 07008",Carteret, 07008
+349000,2.0,2.0,1263.0,0,0,4.0,9562.0,Condo/Co-op,2000,33.0,56.0,"2041 Windrow Dr #2041,Plainsboro, NJ 08540",Plainsboro, 08540
+725000,4.0,2.5,2380.0,1,1,,10512.0,Single Family Residential,1973,57.0,45.0,"25 James Ave,Kendall Park, NJ 08824",Kendall Park, 08824
+375000,2.0,1.0,,1,0,5.0,5481.0,Single Family Residential,,66.0,47.0,"3317 Banta Rd,South Plainfield, NJ 07080",South Plainfield, 07080
+1298000,5.0,4.5,,1,1,11.0,11763.0,Other,1958,38.0,42.0,"999 Wood Ave,Edison, NJ 08820",Edison, 08820
+629000,4.0,2.0,1632.0,1,1,7.0,9338.0,Single Family Residential,1951,63.0,49.0,"215 Carteret Ave,Carteret, NJ 07008",Carteret, 07008
+220000,2.0,1.0,896.0,0,0,4.0,3258.0,Condo/Co-op,1977,36.0,39.0,"198 College Dr #198,Edison, NJ 08817",Edison, 08817
+764900,5.0,2.5,2748.0,1,1,11.0,8793.0,Single Family Residential,1914,53.0,43.0,"461 Prospect Ave,Piscataway, NJ 08854",Piscataway, 08854
+3143639,,,2992.0,1,0,,,Single Family Residential,1954,24.0,28.0,"746 River Rd,Piscataway, NJ 08854",Piscataway, 08854
+515000,4.0,3.0,2008.0,1,0,11.0,12108.0,Single Family Residential,1910,61.0,65.0,"117 Graham St,Highland Park, NJ 08904",Highland Park, 08904
+789000,3.0,2.0,2268.0,1,0,8.0,12634.0,Single Family Residential,1956,17.0,36.0,"37 Utica Rd,Edison, NJ 08820",Edison, 08820
+299900,2.0,2.0,1508.0,0,0,6.0,4450.0,Single Family Residential,,61.0,50.0,"732 Edpas Rd,New Brunswick, NJ 08901",New Brunswick, 08901
+209999,1.0,1.0,624.0,0,0,4.0,1970.0,Condo/Co-op,,43.0,45.0,"1117 Edpas Rd,New Brunswick, NJ 08901",New Brunswick, 08901
+319000,2.0,1.0,576.0,1,1,4.0,4442.0,Single Family Residential,,51.0,40.0,"68 Macarthur Ave,Sayreville, NJ 08872",Sayreville, 08872
+729000,3.0,2.5,2730.0,0,1,8.0,10925.0,Townhouse,,6.0,29.0,"163 Coppertree Ct,Edison, NJ 08820",Edison, 08820
+574000,4.0,2.5,,1,1,9.0,3560.0,Single Family Residential,1951,46.0,39.0,"72 Macarthur Ave,Sayreville, NJ 08872",Sayreville, 08872
+2200000,6.0,6.0,8660.0,1,1,,31927.0,Single Family Residential,2012,10.0,23.0,"4 Majestic Woods Dr,Monroe Twp, NJ 08831",Monroe Twp, 08831
+565000,4.0,2.0,1391.0,1,0,6.0,4869.0,Single Family Residential,,40.0,45.0,"211 Barone Ave,South Plainfield, NJ 07080",South Plainfield, 07080
+400000,4.0,2.0,,1,1,7.0,7366.0,Single Family Residential,1942,59.0,49.0,"646 Kosciusko St,Perth Amboy, NJ 08861",Perth Amboy, 08861
+425000,4.0,3.0,,1,0,8.0,7645.0,Single Family Residential,,81.0,51.0,"292 Central Ave,Metuchen, NJ 08840",Metuchen, 08840
+350000,4.0,2.0,1534.0,1,1,7.0,6554.0,Single Family Residential,1952,50.0,44.0,"523 N Park Dr,Perth Amboy, NJ 08861",Perth Amboy, 08861
+171094,,,780.0,1,0,,,Condo/Co-op,1960,64.0,58.0,"55B Gramercy Gdns #55,Middlesex, NJ 08846",Middlesex, 08846
+405000,3.0,1.0,,1,0,,7161.0,Single Family Residential,1950,63.0,45.0,"36 Louis Ave,Middlesex, NJ 08846",Middlesex, 08846
+248900,2.0,2.0,1256.0,1,0,6.0,1640.0,Single Family Residential,,19.0,31.0,"A Mayflower Way,Monroe, NJ 08831",Monroe, 08831
+499900,4.0,2.0,,1,0,,,Single Family Residential,1950,41.0,39.0,"274 Greenbrook Rd,Green Brook Twp., NJ 08812-2206",Green Brook Twp., 08812-2206
+475000,2.0,2.5,1312.0,1,0,7.0,10976.0,Single Family Residential,,89.0,60.0,"26 Courtland St,New Brunswick, NJ 08901",New Brunswick, 08901
+215000,2.0,1.0,884.0,0,0,4.0,5064.0,Condo/Co-op,,25.0,42.0,"351 College Dr,Edison, NJ 08817",Edison, 08817
+500000,3.0,2.0,1836.0,1,0,9.0,10636.0,Single Family Residential,1935,67.0,45.0,"229 Martool Dr,Woodbridge Proper, NJ 07095",Woodbridge Proper, 07095
+659000,4.0,2.5,1736.0,1,1,8.0,13786.0,Single Family Residential,1978,10.0,17.0,"5 Van Wickle Rd,East Brunswick, NJ 08816",East Brunswick, 08816
+550000,3.0,2.5,1828.0,1,1,8.0,12515.0,Single Family Residential,1992,5.0,18.0,"30 Kentisbury Cir,East Brunswick, NJ 08816",East Brunswick, 08816
+495000,3.0,1.5,1344.0,1,0,6.0,5241.0,Multi-Family (2-4 Unit),1950,53.0,43.0,"57 Christopher St,Carteret, NJ 07008",Carteret, 07008
+2900,2.0,2.0,1372.0,0,1,4.0,8255.0,Single Family Residential,,21.0,34.0,"91 Heather Ct,Edison, NJ 08820",Edison, 08820
+1250000,4.0,4.5,4312.0,1,1,9.0,,Other,,15.0,24.0,"137 Church Ln,East Brunswick, NJ 08816",East Brunswick, 08816
+688924,3.0,2.5,2072.0,0,1,8.0,1.0,Single Family Residential,,32.0,42.0,"52 Depot Way #1124,Dunellen, NJ 08812",Dunellen, 08812
+799000,4.0,4.5,2413.0,1,1,12.0,,Single Family Residential,,53.0,43.0,"50 Vaughn Ave,Spotswood, NJ 08884",Spotswood, 08884
+375000,4.0,1.0,1152.0,1,0,6.0,6129.0,Single Family Residential,1956,58.0,42.0,"18 John St,Carteret, NJ 07008",Carteret, 07008
+379000,3.0,1.5,1192.0,1,1,5.0,4695.0,Single Family Residential,1991,71.0,47.0,"309 Harris St,Carteret, NJ 07008",Carteret, 07008
+767990,3.0,2.5,1822.0,1,0,,,,,0.0,25.0,"Madison I Plan,Old Bridge, NJ 08857",Old Bridge, 08857
+749000,4.0,2.5,2933.0,1,1,15.0,12312.0,Single Family Residential,1977,2.0,32.0,"5 Oakwood Way,Piscataway, NJ 08854",Piscataway, 08854
+379900,3.0,2.0,,0,0,6.0,5445.0,Single Family Residential,,9.0,24.0,"2704 Lighthouse Ln,Sayreville, NJ 08859",Sayreville, 08859
+499000,,,,1,0,,6514.0,Vacant Land,,8.0,26.0,"2 Legends Dr,Monroe, NJ 08831",Monroe, 08831
+190000,,1.0,430.0,0,0,1.0,2588.0,Condo/Co-op,1987,87.0,47.0,"40 Fayette St #12,Perth Amboy, NJ 08861",Perth Amboy, 08861
+529000,4.0,1.5,1586.0,0,0,7.0,7034.0,Single Family Residential,1959,52.0,47.0,"83 Tennyson St,Carteret, NJ 07008",Carteret, 07008
+485000,3.0,2.5,2463.0,1,0,,,Condo/Co-op,2007,78.0,42.0,"368 Rector St #513,Perth Amboy, NJ 08861",Perth Amboy, 08861
+650000,3.0,2.5,,1,0,7.0,11022.0,Condo/Co-op,,74.0,53.0,"14 Irongate Ave #303,Metuchen, NJ 08840",Metuchen, 08840
+719900,3.0,3.0,2703.0,0,1,8.0,17953.0,Single Family Residential,2017,40.0,28.0,"66 Cannon St,North Brunswick, NJ 08902",North Brunswick, 08902
+697000,5.0,3.0,,0,1,10.0,13937.0,Single Family Residential,1961,20.0,30.0,"2 Merker Dr,Edison, NJ 08837",Edison, 08837
+210000,1.0,1.0,802.0,1,0,,5496.0,Condo/Co-op,,43.0,62.0,"2036 Windrow Dr,Princeton, NJ 08540",Princeton, 08540
+742990,3.0,2.5,,0,1,6.0,6000.0,Single Family Residential,,79.0,71.0,"103 Lyla Ln,New Brunswick, NJ 08901",New Brunswick, 08901
+497303,3.0,2.5,,0,1,6.0,5688.0,Single Family Residential,,10.0,29.0,"253 Prestwick Way,Edison, NJ 08820",Edison, 08820
+795000,3.0,3.5,2603.0,1,1,9.0,23626.0,Single Family Residential,2019,83.0,77.0,"18 Penzias Pl,Highland Park, NJ 08904",Highland Park, 08904
+725000,4.0,3.0,2479.0,1,1,9.0,6450.0,Single Family Residential,1971,51.0,43.0,"14 Thames Ave,Piscataway, NJ 08854",Piscataway, 08854
+369000,3.0,1.0,,1,0,,,Single Family Residential,1951,56.0,56.0,"119 2Nd St,Middlesex Boro, NJ 08846-2125",Middlesex Boro, 08846-2125
+468500,2.0,2.0,,1,1,6.0,2922.0,Condo/Co-op,,23.0,31.0,"222-A Branch Rd,Monroe, NJ 08831",Monroe, 08831
+839900,5.0,4.0,,1,1,9.0,17000.0,Single Family Residential,,50.0,45.0,"123 William St,Carteret, NJ 07008",Carteret, 07008
+475000,3.0,1.5,1823.0,1,0,8.0,8273.0,Single Family Residential,1958,31.0,32.0,"6 Clover St,Old Bridge, NJ 08857",Old Bridge, 08857
+734900,4.0,2.5,2345.0,1,1,,10691.0,Single Family Residential,1994,3.0,25.0,"40 Emily Dr,Old Bridge, NJ 08857",Old Bridge, 08857
+799000,4.0,2.5,2594.0,1,1,7.0,,Single Family Residential,,49.0,36.0,"A Plainfield Ave,Piscataway, NJ 08854",Piscataway, 08854
+489000,5.0,3.0,2600.0,1,0,12.0,5313.0,Single Family Residential,1894,80.0,46.0,"105 State St,Perth Amboy, NJ 08861",Perth Amboy, 08861
+515000,3.0,2.0,1233.0,1,1,9.0,8684.0,Single Family Residential,1950,65.0,51.0,"419 S 7th Ave,Highland Park, NJ 08904",Highland Park, 08904
+399000,3.0,2.0,1446.0,1,1,5.0,6092.0,Single Family Residential,1935,68.0,46.0,"12 Tice Ave,South River, NJ 08882",South River, 08882
+799900,,,,1,0,,7400.0,Vacant Land,,38.0,36.0,"3803 Us-1,South Brunswick, NJ 08852",South Brunswick, 08852
+579900,4.0,2.5,2265.0,1,0,9.0,12557.0,Single Family Residential,1956,69.0,44.0,"38 Clayton Ct,Woodbridge Proper, NJ 07095",Woodbridge Proper, 07095
+639000,3.0,3.5,,0,1,8.0,18151.0,Single Family Residential,2017,40.0,28.0,"94 Fleet St,North Brunswick, NJ 08902",North Brunswick, 08902
+469000,3.0,2.0,1408.0,1,0,9.0,7338.0,Single Family Residential,1916,62.0,31.0,"173 Fulton St,Woodbridge Proper, NJ 07095",Woodbridge Proper, 07095
+340000,3.0,2.0,2200.0,1,1,8.0,9499.0,Single Family Residential,1961,47.0,31.0,"755 Christopher Ct,Perth Amboy, NJ 08861",Perth Amboy, 08861
+550000,3.0,1.5,1501.0,1,1,7.0,12946.0,Single Family Residential,1924,68.0,46.0,"174 High St,Metuchen, NJ 08840",Metuchen, 08840
+500000,2.0,2.0,1399.0,0,1,5.0,10069.0,Condo/Co-op,1983,37.0,37.0,"88 Gate House Ln,Edison, NJ 08820",Edison, 08820
+269000,2.0,1.0,,1,0,6.0,4413.0,Single Family Residential,1895,46.0,39.0,"5 Wedgewood Ave,Woodbridge Proper, NJ 07095",Woodbridge Proper, 07095
+615000,3.0,2.5,2320.0,0,1,8.0,8748.0,Single Family Residential,2013,6.0,30.0,"18 Constitution Dr,Monroe, NJ 08831",Monroe, 08831
+299900,2.0,2.0,1448.0,0,0,5.0,2853.0,Single Family Residential,,53.0,34.0,"414 Onset Ln Unit A,Monroe, NJ 08831",Monroe, 08831
+429900,2.0,2.5,1534.0,1,1,6.0,5340.0,Townhouse,1988,45.0,43.0,"2003 N Oaks Blvd,North Brunswick, NJ 08902",North Brunswick, 08902
+550000,3.0,1.5,,1,1,7.0,9684.0,Single Family Residential,1948,64.0,39.0,"48 Newman St,Metuchen, NJ 08840",Metuchen, 08840
+637000,3.0,2.5,2559.0,0,1,8.0,9105.0,Single Family Residential,,4.0,26.0,"34 Morgan Way,Monroe, NJ 08831",Monroe, 08831
+977995,4.0,3.5,3164.0,1,0,,,,,6.0,26.0,"Irving Plan,Cranbury, NJ 08512",Cranbury, 08512
+295000,2.0,2.0,,1,1,8.0,2390.0,Single Family Residential,1977,43.0,33.0,"387-A Newport Way,Monroe, NJ 08831",Monroe, 08831
+430000,,,1922.0,1,0,11.0,7773.0,Single Family Residential,1892,93.0,62.0,"38 Hartwell St,New Brunswick, NJ 08901",New Brunswick, 08901
+499900,4.0,3.0,,1,0,11.0,2621.0,Single Family Residential,2021,60.0,63.0,"713 Parker St,Perth Amboy, NJ 08861",Perth Amboy, 08861
+418900,3.0,2.0,1010.0,1,0,7.0,8111.0,Single Family Residential,1920,54.0,55.0,"2 Anne St,Middlesex, NJ 08846",Middlesex, 08846
+450000,2.0,1.0,1020.0,1,1,5.0,7240.0,Single Family Residential,1950,50.0,50.0,"6 Valley Brook Dr,Middlesex, NJ 08846",Middlesex, 08846
+319990,1.0,1.0,,1,0,5.0,3933.0,Single Family Residential,1982,33.0,29.0,"231 Chaucer Ct,Old Bridge, NJ 08857",Old Bridge, 08857
+359000,2.0,1.0,708.0,1,0,6.0,5227.0,Single Family Residential,1937,78.0,54.0,"23 John St,South River, NJ 08882",South River, 08882
+524900,3.0,1.5,,1,0,7.0,7916.0,Single Family Residential,1899,92.0,45.0,"218 Kearny Ave,Perth Amboy, NJ 08861",Perth Amboy, 08861
+599999,,,2474.0,1,0,9.0,11394.0,Single Family Residential,,50.0,42.0,"180 Main St,East Brunswick, NJ 08816",East Brunswick, 08816
+1200000,4.0,3.5,3603.0,1,1,11.0,17049.0,Single Family Residential,2006,8.0,26.0,"56 Birch St,Old Bridge, NJ 08857",Old Bridge, 08857
+589000,,,,1,0,,5192.0,Vacant Land,,18.0,43.0,"176 Brooklyn Ave,Spotswood, NJ 08884",Spotswood, 08884
+349000,2.0,2.0,1128.0,1,0,5.0,6066.0,Condo/Co-op,1999,16.0,24.0,"1703 Ridgeview Ct #1703,Sayreville, NJ 08859",Sayreville, 08859
+379900,4.0,2.0,711.0,1,0,8.0,7522.0,Single Family Residential,1913,72.0,54.0,"21 Thomasine St,Edison, NJ 08817",Edison, 08817
+767990,3.0,3.0,2731.0,1,0,,,,,8.0,30.0,"Capri Plan,Monroe Township, NJ 08831",Monroe Township, 08831
+900000,3.0,2.0,,1,1,6.0,7386.0,Single Family Residential,,37.0,27.0,"193 Pulaski Ave,Sayreville, NJ 08872",Sayreville, 08872
+485000,2.0,2.0,1506.0,1,1,6.0,3783.0,Single Family Residential,1983,9.0,9.0,"19 Benjamin Franklin Dr,Monroe, NJ 08831",Monroe, 08831
+545000,2.0,2.5,,1,0,,8164.0,Townhouse,1999,41.0,41.0,"1107 Blossom Cir,Dayton, NJ 08810",Dayton, 08810
+325900,2.0,1.0,,1,0,,,Condo/Co-op,,64.0,45.0,"143-G Beverly Hill Ter,Woodbridge Twp., NJ 07095-4004",Woodbridge Twp., 07095-4004
+250000,,,,1,1,,,Vacant Land,,30.0,27.0,"56 Miara St,Sayreville, NJ 08859",Sayreville, 08859
+999356,2.0,2.5,2432.0,1,1,,14754.0,Vacant Land,,6.0,26.0,"4 Evelyn Ct,Cranbury, NJ 08512",Cranbury, 08512
+329500,3.0,2.0,,0,1,6.0,5475.0,Single Family Residential,1910,58.0,42.0,"30 John St,Carteret, NJ 07008",Carteret, 07008
+499900,4.0,1.5,889.0,1,1,6.0,6978.0,Single Family Residential,1949,74.0,58.0,"2 Weber Rd,North Brunswick, NJ 08902",North Brunswick, 08902
+559000,4.0,2.0,,1,1,8.0,8588.0,Single Family Residential,1957,51.0,38.0,"139 Washington Ave,Milltown, NJ 08850",Milltown, 08850
+485000,2.0,2.5,,0,1,6.0,7128.0,Single Family Residential,,30.0,26.0,"43 Birch Ter,Sayreville, NJ 08859",Sayreville, 08859
+539000,2.0,2.0,1576.0,1,1,9.0,4037.0,Single Family Residential,1983,12.0,29.0,"19 Patrick Henry Ct,Monroe, NJ 08831",Monroe, 08831
+539000,4.0,2.0,,1,1,8.0,9122.0,Single Family Residential,,36.0,29.0,"49 Fanwood Dr,Sayreville, NJ 08872",Sayreville, 08872
+365000,2.0,2.0,1034.0,0,0,5.0,5494.0,Condo/Co-op,,53.0,40.0,"434 Waterford Dr,Edison, NJ 08817",Edison, 08817
+179000,,,,1,0,,3763.0,Single Family Residential,,18.0,31.0,"35 Birch St,Old Bridge, NJ 08857",Old Bridge, 08857
+599950,8.0,4.0,3600.0,1,0,5.0,10748.0,Single Family Residential,1900,71.0,66.0,"193 Lawrence St,New Brunswick, NJ 08901",New Brunswick, 08901
+499900,3.0,1.5,1650.0,1,1,8.0,10064.0,Single Family Residential,1950,39.0,33.0,"23 S Woodland Ave,East Brunswick, NJ 08816",East Brunswick, 08816
+328000,2.0,1.0,964.0,1,0,,5003.0,Condo/Co-op,,37.0,47.0,"3228 Sayre Dr,Princeton, NJ 08540",Princeton, 08540
+900000,5.0,3.0,,1,0,11.0,5096.0,Single Family Residential,,37.0,27.0,"195 Pulaski Ave,Sayreville, NJ 08872",Sayreville, 08872
+369900,2.0,2.0,1628.0,1,1,6.0,1792.0,Single Family Residential,,21.0,28.0,"A Pompton Rd,Monroe, NJ 08831",Monroe, 08831
+295000,2.0,2.0,1486.0,1,0,,2022.0,Single Family Residential,,43.0,33.0,"387 A Newport Way,Monroe, NJ 08831",Monroe, 08831
+330000,,2.0,,0,0,5.0,4458.0,Condo/Co-op,,20.0,31.0,"1415 Pebble Pl,Sayreville, NJ 08859",Sayreville, 08859
+339000,3.0,1.5,1144.0,1,1,7.0,7248.0,Single Family Residential,1931,71.0,46.0,"521 Olive Pl,Woodbridge Proper, NJ 07095",Woodbridge Proper, 07095
+679429,3.0,3.0,1892.0,1,1,7.0,11089.0,Single Family Residential,1971,17.0,26.0,"936 Kearney Dr,North Brunswick, NJ 08902",North Brunswick, 08902
+750000,,,,1,0,,41.0,Vacant Land,,10.0,26.0,"44 Federal Rd,Monroe, NJ 08831",Monroe, 08831
+1099000,4.0,3.0,3200.0,1,1,,19319.0,Single Family Residential,1998,4.0,34.0,"17 Heather Ct,Plainsboro, NJ 08536",Plainsboro, 08536
+1599000,5.0,4.5,5020.0,1,1,13.0,28410.0,Single Family Residential,2016,14.0,22.0,"2 Hidden Pond Ct,East Brunswick, NJ 08816",East Brunswick, 08816
+699990,4.0,2.5,2625.0,1,1,,12054.0,Single Family Residential,2006,1.0,18.0,"104 Aristotle,East Windsor, NJ 08512",East Windsor, 08512
+575000,5.0,5.0,3152.0,1,1,10.0,21256.0,Single Family Residential,,7.0,45.0,"702 Leia Ln,Highland Park, NJ 08904",Highland Park, 08904
+495000,3.0,3.0,1712.0,1,1,,9713.0,Townhouse,1995,20.0,34.0,"32 Haymarket Ct,East Windsor, NJ 08512",East Windsor, 08512
+637011,3.0,2.5,,1,1,,12200.0,Single Family Residential,,28.0,33.0,"28 Campbell St,South Plainfield, NJ 07080",South Plainfield, 07080
+399900,2.0,2.0,1208.0,1,0,5.0,6025.0,Condo/Co-op,,28.0,31.0,"1054 Morning Glory Dr,Monroe, NJ 08831",Monroe, 08831
+959000,3.0,,,1,0,,,Multi-Family (5+ Unit),,70.0,50.0,"247 Washington Ave,Carteret, NJ 07008",Carteret, 07008
+600000,2.0,2.0,1928.0,1,1,,8379.0,Single Family Residential,2009,9.0,27.0,"19 Nappa Ct,Monroe Twp, NJ 08831",Monroe Twp, 08831
+1400000,5.0,4.5,4725.0,1,1,10.0,1.0,Single Family Residential,1947,3.0,9.0,"55 South Dr,East Brunswick, NJ 08816",East Brunswick, 08816
+539000,3.0,2.0,,1,1,8.0,6274.0,Single Family Residential,,72.0,51.0,"156 Oak Tree Ave,South Plainfield, NJ 07080",South Plainfield, 07080
+500000,3.0,2.0,1096.0,1,1,,7663.0,Single Family Residential,1935,51.0,62.0,"8 Linden Ln,Plainsboro, NJ 08536",Plainsboro, 08536
+250000,2.0,1.0,943.0,0,0,5.0,4855.0,Single Family Residential,,73.0,52.0,"A Woodedge Ave #4,Edison, NJ 08817",Edison, 08817
+173500,1.0,1.0,,0,0,3.0,,Condo/Co-op,,62.0,67.0,"32 Judson St Unit 5B,Edison, NJ 08837",Edison, 08837
+549000,,,,1,0,,,Single Family Residential,1975,55.0,37.0,"5 Charles Ln,Green Brook Twp., NJ 08812-2160",Green Brook Twp., 08812-2160
+399000,3.0,2.5,,1,1,6.0,8338.0,Townhouse,1994,79.0,51.0,"23 Sycamore Rd,Middlesex, NJ 08846",Middlesex, 08846
+519000,4.0,2.0,,1,0,7.0,9640.0,Single Family Residential,1955,80.0,56.0,"222 S 8th Ave,Highland Park, NJ 08904",Highland Park, 08904
+320000,2.0,2.0,,1,0,4.0,5973.0,Single Family Residential,1989,25.0,32.0,"4401 Birchwood Ct,North Brunswick, NJ 08902",North Brunswick, 08902
+385000,4.0,1.5,,1,0,6.0,3257.0,Single Family Residential,1959,39.0,37.0,"34 Glendale Ave,Edison, NJ 08817",Edison, 08817
+89900,2.0,1.0,,1,0,4.0,,Single Family Residential,,20.0,29.0,"75 Spotswood Dr,Helmetta, NJ 08828",Helmetta, 08828
+779000,4.0,2.5,2594.0,1,1,7.0,,Single Family Residential,,49.0,36.0,"B Plainfield Ave,Piscataway, NJ 08854",Piscataway, 08854
+839900,3.0,3.0,2731.0,0,1,9.0,12944.0,Single Family Residential,2021,3.0,27.0,"65 Metro Dr,Monroe, NJ 08831",Monroe, 08831
+474000,4.0,2.0,,1,1,6.0,5279.0,Single Family Residential,1948,27.0,30.0,"7 N Shore Blvd,Helmetta, NJ 08828",Helmetta, 08828
+565000,4.0,1.5,1596.0,1,0,9.0,11319.0,Single Family Residential,1912,64.0,63.0,"119 Donaldson St,Highland Park, NJ 08904",Highland Park, 08904
+415000,2.0,2.5,1694.0,1,1,5.0,8437.0,Townhouse,1994,79.0,51.0,"13 Sycamore Rd,Middlesex, NJ 08846",Middlesex, 08846
+330000,2.0,2.0,,0,0,5.0,5284.0,Condo/Co-op,1989,57.0,43.0,"339 Wimbeldon Ct,North Brunswick, NJ 08902",North Brunswick, 08902
+550000,4.0,2.0,1074.0,1,1,,8268.0,Single Family Residential,1935,79.0,48.0,"218 Grove Ave,Woodbridge, NJ 07095",Woodbridge, 07095
+460000,4.0,1.0,775.0,0,0,6.0,6432.0,Single Family Residential,1952,80.0,51.0,"69 Ovington Ave,Edison, NJ 08817",Edison, 08817
+689000,4.0,2.0,2232.0,1,0,11.0,9890.0,Single Family Residential,1940,14.0,25.0,"6 Manor Pl,East Brunswick, NJ 08816",East Brunswick, 08816
+679000,4.0,3.0,,0,1,8.0,6106.0,Single Family Residential,1981,26.0,33.0,"552 Grove Ave,Edison, NJ 08820",Edison, 08820
+579900,3.0,2.0,,1,1,7.0,12544.0,Single Family Residential,1951,49.0,44.0,"1110 Clinton Ave,South Plainfield, NJ 07080",South Plainfield, 07080
+1050000,,,,1,0,10.0,2131.0,Vacant Land,,72.0,50.0,"12 Laurel Pl,New Brunswick, NJ 08901",New Brunswick, 08901
+723116,3.0,2.5,2072.0,0,1,8.0,1.0,Single Family Residential,,32.0,42.0,"64 Depot Way #1121,Dunellen, NJ 08812",Dunellen, 08812
+475000,4.0,3.5,2215.0,0,1,7.0,9195.0,Single Family Residential,1988,58.0,44.0,"4301 N Oaks Blvd,North Brunswick, NJ 08902",North Brunswick, 08902
+1000000,5.0,4.5,5356.0,1,1,15.0,20410.0,Single Family Residential,2007,1.0,25.0,"14 St James St,Monroe, NJ 08831",Monroe, 08831
+180000,1.0,1.0,,1,0,,,Condo/Co-op,,64.0,58.0,"55B Gramercy Gdns,Middlesex Boro, NJ 08846",Middlesex Boro, 08846
+625000,4.0,2.5,2003.0,1,1,9.0,10538.0,Single Family Residential,1977,16.0,31.0,"452 Marlboro Rd,Old Bridge, NJ 08857",Old Bridge, 08857
+795000,3.0,3.0,,1,1,,10787.0,Single Family Residential,2016,1.0,28.0,"248 Diamond Spring Dr,Monroe Township, NJ 08831",Monroe Township, 08831
+525000,4.0,1.5,1968.0,1,1,8.0,8630.0,Single Family Residential,1964,14.0,36.0,"311 Roosevelt Ave,Piscataway, NJ 08854",Piscataway, 08854
+769990,3.0,3.0,2731.0,0,0,,,Single Family Residential,1974,45.0,38.0,"18 Fillmore Dr,Monroe, NJ 08831",Monroe, 08831
+349000,2.0,2.0,1263.0,1,0,,9561.0,Condo/Co-op,,43.0,62.0,"2041 Windrow Dr,Princeton, NJ 08540",Princeton, 08540
+500000,4.0,3.0,2570.0,1,1,9.0,8571.0,Single Family Residential,1947,56.0,36.0,"420 Parker Ave,South Amboy, NJ 08879",South Amboy, 08879
+299999,2.0,1.0,559.0,1,0,,,Condo/Co-op,,69.0,34.0,"214 Cricket Ln,Woodbridge Twp., NJ 07095-1513",Woodbridge Twp., 07095-1513
+634900,3.0,2.0,2400.0,0,1,6.0,11167.0,Single Family Residential,,17.0,19.0,"33 Davidsons Mill Rd,South Brunswick, NJ 08902",South Brunswick, 08902
+575000,2.0,2.5,1310.0,1,1,5.0,5600.0,Condo/Co-op,,98.0,68.0,"1 Spring 2402 St #2402,New Brunswick, NJ 08901",New Brunswick, 08901
+645000,5.0,2.0,2136.0,0,1,,9684.0,Single Family Residential,1952,62.0,43.0,"105 Winthrop Rd,Edison, NJ 08817",Edison, 08817
+680000,3.0,2.5,2825.0,1,1,,3766.0,Vacant Land,,7.0,45.0,"43 Riverwalk,Plainsboro, NJ 08536",Plainsboro, 08536
+600740,2.0,2.5,,0,1,5.0,4600.0,Single Family Residential,,35.0,36.0,"101 Lyla Ln,New Brunswick, NJ 08901",New Brunswick, 08901
+515000,4.0,3.0,1884.0,1,0,,,Single Family Residential,1968,62.0,41.0,"910 Dorn Ave,Middlesex Boro, NJ 08846-1230",Middlesex Boro, 08846-1230
+689900,4.0,2.5,,1,1,9.0,13600.0,Single Family Residential,,38.0,41.0,"116 Smith St,South Plainfield, NJ 07080",South Plainfield, 07080
+2500000,,,,1,1,,15431.0,Vacant Land,,6.0,13.0,"39 N State Home Rd,Monroe, NJ 08831",Monroe, 08831
+999000,7.0,3.0,2083.0,1,0,13.0,18192.0,Single Family Residential,1872,91.0,63.0,"84 Guilden St,New Brunswick, NJ 08901",New Brunswick, 08901
+425000,3.0,1.0,,1,1,6.0,7982.0,Single Family Residential,1950,69.0,46.0,"306 Cook Ave,Middlesex, NJ 08846",Middlesex, 08846
+599900,4.0,3.0,,1,0,9.0,5409.0,Single Family Residential,1987,66.0,47.0,"24 Henderson Rd,South Brunswick, NJ 08824",South Brunswick, 08824
+475000,3.0,2.0,1295.0,1,1,5.0,6201.0,Single Family Residential,1910,74.0,49.0,"20 Highland St,East Brunswick, NJ 08816",East Brunswick, 08816
+359000,3.0,1.5,1087.0,1,0,6.0,8484.0,Single Family Residential,,10.0,31.0,"34 State Route 35 Hwy,Old Bridge, NJ 08879",Old Bridge, 08879
+325000,3.0,2.0,,1,1,6.0,7789.0,Single Family Residential,1950,54.0,48.0,"903 Old Bridge Tpke,East Brunswick, NJ 08816",East Brunswick, 08816
+579900,4.0,2.5,,0,0,,6494.0,Single Family Residential,1954,23.0,29.0,"5 Andover Rd,Old Bridge, NJ 08857",Old Bridge, 08857
+575000,,,2918.0,1,0,10.0,7894.0,Single Family Residential,1896,87.0,48.0,"170 Brighton Ave,Perth Amboy, NJ 08861",Perth Amboy, 08861
+399900,3.0,1.5,1154.0,1,0,5.0,8163.0,Single Family Residential,1969,65.0,40.0,"427 Hamilton Ave,Perth Amboy, NJ 08861",Perth Amboy, 08861
+385000,2.0,2.5,1589.0,0,1,7.0,3494.0,Single Family Residential,,50.0,40.0,"22 Glastonbury Dr Unit B,Monroe, NJ 08831",Monroe, 08831
+742990,2.0,2.5,1930.0,1,0,,,,,31.0,36.0,"Greenwich Plan,New Brunswick, NJ 08901",New Brunswick, 08901
+665000,3.0,3.0,,0,1,9.0,7400.0,Single Family Residential,2007,11.0,27.0,"4 Merlot Ct,Monroe, NJ 08831",Monroe, 08831
+690000,4.0,2.5,2460.0,1,1,,12304.0,Single Family Residential,2002,8.0,27.0,"31 S Shore Blvd,Monroe Township, NJ 08831",Monroe Township, 08831
+519000,4.0,2.0,2034.0,0,1,9.0,7650.0,Single Family Residential,1944,17.0,43.0,"104 Lakeside Dr N,Piscataway, NJ 08854",Piscataway, 08854
+1650000,5.0,5.5,1992.0,1,1,10.0,37.0,Single Family Residential,1800,1.0,20.0,"133 Old Beekman Rd,South Brunswick, NJ 08852",South Brunswick, 08852
+240000,2.0,2.0,1374.0,1,1,7.0,1499.0,Condo/Co-op,,24.0,32.0,"253-O Mystic Ln,Monroe, NJ 08831",Monroe, 08831
+377900,3.0,2.0,,1,1,6.0,5360.0,Single Family Residential,,88.0,50.0,"B First St,Perth Amboy, NJ 08861",Perth Amboy, 08861
+769000,6.0,4.0,2500.0,1,0,,,Single Family Residential,,69.0,51.0,"9B Wright Pl,New Brunswick City, NJ 08901-3228",New Brunswick City, 08901-3228
+32500,,,,1,0,,,Single Family Residential,,42.0,76.0,"Lot 19 Fox Run Dr,Williamsburg, IA 52361",Williamsburg,
+330000,3.0,1.0,780.0,1,0,6.0,4202.0,Single Family Residential,1925,47.0,49.0,"190 Cleveland Ave,Old Bridge, NJ 08879",Old Bridge, 08879
+435000,3.0,2.5,2463.0,0,1,9.0,9937.0,Condo/Co-op,2007,78.0,42.0,"368 Rector St #502,Perth Amboy, NJ 08861",Perth Amboy, 08861
+599900,4.0,2.0,,0,1,8.0,9025.0,Single Family Residential,1962,36.0,35.0,"26 Hansen Rd,Old Bridge, NJ 08857",Old Bridge, 08857
+1500000,5.0,4.5,3700.0,1,1,10.0,3980.0,Single Family Residential,,1.0,20.0,"4 Joye Ln,South Brunswick, NJ 08852",South Brunswick, 08852
+898995,2.0,2.5,2432.0,1,0,,,,,6.0,26.0,"Grinnell Plan,Cranbury, NJ 08512",Cranbury, 08512
+499000,4.0,2.0,834.0,1,1,10.0,3913.0,Single Family Residential,1947,70.0,57.0,"163 Brower Ave,Edison, NJ 08837",Edison, 08837
+579900,4.0,2.5,2056.0,0,1,7.0,11214.0,Single Family Residential,1990,17.0,69.0,"34 Ashford Dr,Plainsboro, NJ 08536",Plainsboro, 08536
+1250000,4.0,2.5,2576.0,1,0,,9854.0,Single Family Residential,2010,0.0,25.0,"177 Federal Rd,Monroe Twp, NJ 08831",Monroe Twp, 08831
+549900,4.0,2.0,1360.0,1,1,7.0,4686.0,Single Family Residential,1960,68.0,50.0,"13 Eardley Rd,Edison, NJ 08817",Edison, 08817
+559000,4.0,2.0,2018.0,1,0,8.0,12275.0,Single Family Residential,1963,28.0,32.0,"47 University Rd,East Brunswick, NJ 08816",East Brunswick, 08816
+350000,2.0,2.0,,0,0,6.0,5744.0,Single Family Residential,,64.0,44.0,"107 Keystone Ct Unit 107c,Woodbridge Proper, NJ 07095",Woodbridge Proper, 07095
+549900,4.0,2.0,1912.0,1,1,9.0,8715.0,Single Family Residential,1950,72.0,60.0,"905 Cranbury Cross Rd,North Brunswick, NJ 08902",North Brunswick, 08902
+273000,,,,1,0,,,Single Family Residential,,70.0,50.0,"21 Catherine St,Carteret, NJ 07008",Carteret, 07008
+273000,2.0,1.0,1039.0,0,0,5.0,3840.0,Condo/Co-op,1988,13.0,29.0,"1909 Tanglewood Ct #1909,Helmetta, NJ 08828",Helmetta, 08828
+380000,5.0,2.0,,1,1,9.0,7537.0,Single Family Residential,1930,75.0,49.0,"423 Henry St,South Amboy, NJ 08879",South Amboy, 08879
+350000,3.0,2.0,1628.0,1,0,,,Condo/Co-op,,16.0,28.0,"348A Jutland Dr,Monroe, NJ 08831",Monroe, 08831
+299999,,,,1,1,,3011.0,Vacant Land,,49.0,41.0,"34 Patton Dr,Sayreville, NJ 08872",Sayreville, 08872
+96259,2.0,1.0,,0,0,5.0,3064.0,Condo/Co-op,,28.0,31.0,"7 Wycoff Way E,East Brunswick, NJ 08816",East Brunswick, 08816
+756000,4.0,3.0,,0,1,7.0,10593.0,Single Family Residential,1973,14.0,39.0,"13 Stafford Rd,South Brunswick, NJ 08852",South Brunswick, 08852
+701990,2.0,2.5,1654.0,1,0,,,,,31.0,36.0,"Union Plan,New Brunswick, NJ 08901",New Brunswick, 08901
+750000,5.0,4.5,2366.0,1,1,10.0,14683.0,Single Family Residential,1972,9.0,28.0,"233 Dunhams Corner Rd,East Brunswick, NJ 08816",East Brunswick, 08816
+1388000,6.0,7.0,6524.0,1,1,11.0,28847.0,Single Family Residential,1992,5.0,25.0,"28 Beaverdam Dr,East Brunswick, NJ 08816",East Brunswick, 08816
+1089000,5.0,2.5,32225.0,1,1,10.0,5093.0,Single Family Residential,,1.0,21.0,"22 White Pine Rd,South Brunswick, NJ 08831",South Brunswick, 08831
+399900,4.0,2.0,1580.0,1,1,7.0,4393.0,Single Family Residential,1920,84.0,76.0,"184 Hale St,New Brunswick, NJ 08901",New Brunswick, 08901
+485000,3.0,2.0,1304.0,1,1,7.0,8256.0,Single Family Residential,1957,50.0,38.0,"244 St. Marks Ave,Piscataway, NJ 08854",Piscataway, 08854
+299999,1.0,1.0,,1,0,4.0,3389.0,Single Family Residential,1930,43.0,43.0,"438 Brookside Ave,South Amboy, NJ 08879",South Amboy, 08879
+450000,2.0,2.0,1661.0,0,1,4.0,5904.0,Single Family Residential,2003,17.0,27.0,"21 Appleby Dr,Helmetta, NJ 08828",Helmetta, 08828
+429000,2.0,2.0,,0,1,5.0,5308.0,Condo/Co-op,,32.0,35.0,"8322 Falston Cir,Old Bridge, NJ 08857",Old Bridge, 08857
+419000,2.0,2.5,1293.0,1,1,7.0,6830.0,Single Family Residential,1984,26.0,33.0,"81 Diamond Ln,Old Bridge, NJ 08857",Old Bridge, 08857
+950000,5.0,3.0,2900.0,1,1,12.0,17651.0,Single Family Residential,2006,36.0,44.0,"26 Melbloum Ln,Edison, NJ 08837",Edison, 08837
+429000,3.0,2.0,,1,1,8.0,9635.0,Single Family Residential,1930,69.0,46.0,"15 Pergola Ave,Jamesburg, NJ 08831",Jamesburg, 08831
+605000,4.0,2.0,2000.0,1,0,,,Single Family Residential,1950,55.0,44.0,"240 Cedar St,South Bound Brook Boro, NJ 08880-1355",South Bound Brook Boro, 08880-1355
+769000,,,,1,1,10.0,11571.0,Multi-Family (2-4 Unit),,65.0,50.0,"A Wright Pl,New Brunswick, NJ 08901",New Brunswick, 08901
+389000,2.0,2.0,1241.0,0,1,5.0,7148.0,Condo/Co-op,2006,87.0,47.0,"358 Rector St #609,Perth Amboy, NJ 08861",Perth Amboy, 08861
+359000,2.0,1.5,1655.0,0,1,5.0,1425.0,Condo/Co-op,1987,87.0,47.0,"40 Fayette St #66,Perth Amboy, NJ 08861",Perth Amboy, 08861
+899000,6.0,4.0,3137.0,0,1,10.0,,Single Family Residential,,72.0,51.0,"414 Victoria Dr,Piscataway, NJ 08854",Piscataway, 08854
+515000,4.0,2.5,,1,0,8.0,13598.0,Single Family Residential,2002,42.0,36.0,"52 N Wilson Ave,Milltown, NJ 08850",Milltown, 08850
+519900,6.0,2.0,1932.0,1,0,10.0,7762.0,Single Family Residential,1901,87.0,57.0,"387 Market St,Perth Amboy, NJ 08861",Perth Amboy, 08861
+449014,3.0,1.5,,1,0,7.0,7524.0,Single Family Residential,1925,83.0,53.0,"514 Front St,Dunellen, NJ 08812",Dunellen, 08812
+399900,3.0,1.5,1373.0,1,1,6.0,7028.0,Single Family Residential,,13.0,22.0,"9 Exeter Ct,Sayreville, NJ 08872",Sayreville, 08872
+899900,3.0,1.5,1500.0,1,1,6.0,9662.0,Single Family Residential,,81.0,50.0,"1610 Oak Tree Rd,Iselin, NJ 08830",Iselin, 08830
+1600000,3.0,,10000.0,1,0,,,Multi-Family (5+ Unit),,82.0,76.0,"198-200 E Main St,Bound Brook, NJ 08805",Bound Brook, 08805
+180000,,,1472.0,1,0,,2853.0,Single Family Residential,1920,77.0,67.0,"6 Anderson St,South River, NJ 08882",South River, 08882
+1090000,4.0,2.5,4507.0,1,1,11.0,19004.0,Single Family Residential,2002,4.0,25.0,"12 Carly Ct,Monroe, NJ 08831",Monroe, 08831
+799000,4.0,2.5,2594.0,1,1,,,Single Family Residential,,49.0,36.0,"D Plainfield Ave,Piscataway, NJ 08854",Piscataway, 08854
+620000,3.0,2.5,2126.0,1,1,,10402.0,Townhouse,1986,38.0,73.0,"149 Tennyson Dr,Plainsboro, NJ 08536",Plainsboro, 08536
+495000,3.0,1.5,1794.0,0,0,9.0,7262.0,Single Family Residential,1957,68.0,49.0,"124 9th St,Piscataway, NJ 08854",Piscataway, 08854
+550000,6.0,2.5,1152.0,1,0,,6920.0,Single Family Residential,1945,73.0,79.0,"434 Plainsboro Rd,Plainsboro, NJ 08536",Plainsboro, 08536
+675490,2.0,2.0,1838.0,1,0,,,,,8.0,30.0,"Davenport Plan,Monroe Township, NJ 08831",Monroe Township, 08831
+299900,1.0,1.0,,0,0,4.0,4245.0,Condo/Co-op,,68.0,47.0,"439 Meade Ct,East Brunswick, NJ 08816",East Brunswick, 08816
+599900,3.0,1.0,1414.0,1,1,7.0,10495.0,Single Family Residential,1920,48.0,39.0,"455 Ryders Ln,East Brunswick, NJ 08816",East Brunswick, 08816
+399900,3.0,2.5,1288.0,0,0,8.0,6292.0,Townhouse,1989,46.0,42.0,"70 Clay St,North Brunswick, NJ 08902",North Brunswick, 08902
+385900,2.0,2.5,,1,0,6.0,6161.0,Single Family Residential,,21.0,15.0,"26 Pero Ct,Sayreville, NJ 08872",Sayreville, 08872
+685000,2.0,2.5,3300.0,1,0,,,Townhouse,2005,55.0,45.0,"14 Ayers Ct #14,Metuchen Boro, NJ 08840-1172",Metuchen Boro, 08840-1172
+541390,2.0,2.0,,0,1,5.0,4300.0,Single Family Residential,,36.0,35.0,"206 Peyton Pl,New Brunswick, NJ 08901",New Brunswick, 08901
+500000,5.0,3.0,1579.0,1,1,,9742.0,Single Family Residential,1949,69.0,58.0,"20 Mcguire St,Metuchen, NJ 08840",Metuchen, 08840
+649000,,,3036.0,1,0,14.0,9571.0,Multi-Family (2-4 Unit),,76.0,43.0,"5 Mcpherson St,South River, NJ 08882",South River, 08882
+359000,3.0,2.0,,1,0,7.0,4906.0,Single Family Residential,1914,74.0,59.0,"242 2nd St,South Amboy, NJ 08879",South Amboy, 08879
+559900,2.0,2.5,1971.0,0,1,7.0,3326.0,Single Family Residential,,9.0,28.0,"432 Andover Dr Unit C,Monroe, NJ 08831",Monroe, 08831
+899990,4.0,2.5,2827.0,1,0,,,,,0.0,25.0,"Hancock V Plan,Old Bridge, NJ 08857",Old Bridge, 08857
+980000,5.0,3.0,3000.0,0,1,15.0,9874.0,Single Family Residential,1959,23.0,25.0,"16 Newman Rd,South Brunswick, NJ 08824",South Brunswick, 08824
+889900,4.0,2.5,2730.0,1,1,10.0,15200.0,Single Family Residential,2004,14.0,30.0,"3 Raven Dr,Old Bridge, NJ 08857",Old Bridge, 08857
+825000,4.0,3.0,2683.0,0,1,12.0,13268.0,Single Family Residential,1952,57.0,43.0,"10 Markham Rd,Edison, NJ 08817",Edison, 08817
+399999,3.0,1.0,,1,1,6.0,5816.0,Single Family Residential,1960,59.0,44.0,"647 S Washington Ave,Piscataway, NJ 08854",Piscataway, 08854
+359999,3.0,1.0,1241.0,1,0,,2022.0,Single Family Residential,1948,38.0,40.0,"13 Anne St,South River, NJ 08882",South River, 08882
+347000,3.0,2.0,1266.0,0,1,7.0,3287.0,Single Family Residential,,17.0,31.0,"B Cistus Plz,Monroe, NJ 08831",Monroe, 08831
+479900,4.0,2.0,1584.0,1,0,8.0,9654.0,Single Family Residential,1952,67.0,48.0,"424 Cook Ave,Middlesex, NJ 08846",Middlesex, 08846
+429900,2.0,2.5,1972.0,0,1,7.0,4512.0,Condo/Co-op,1977,40.0,32.0,"441A New Haven Way Unit 441A,Monroe, NJ 08831",Monroe, 08831
+789990,3.0,3.5,2913.0,0,0,,,Single Family Residential,1986,6.0,25.0,"29 Fillmore Dr,Monroe, NJ 08831",Monroe, 08831
+479900,3.0,2.0,1607.0,1,1,6.0,9763.0,Single Family Residential,1952,54.0,40.0,"685 Barron Ave,Woodbridge Proper, NJ 07095",Woodbridge Proper, 07095
+575000,6.0,2.0,,1,0,,,Single Family Residential,1949,68.0,62.0,"16 Atlantic St,Metuchen, NJ 08840",Metuchen, 08840
+479900,,,1296.0,1,0,5.0,12145.0,Single Family Residential,1955,86.0,78.0,"25 Cedar Ave,Highland Park, NJ 08904",Highland Park, 08904
+1000000,,,,1,0,,,Vacant Land,,35.0,30.0,"0 Melrose And Kearney Ave,South Amboy, NJ 08879",South Amboy, 08879
+425000,3.0,1.5,,1,0,10.0,6219.0,Single Family Residential,1911,40.0,37.0,"173 Easy St,Edison, NJ 08817",Edison, 08817
+419900,3.0,1.0,1408.0,1,0,6.0,7159.0,Single Family Residential,1952,39.0,33.0,"304 Buckelew Ave,Monroe, NJ 08831",Monroe, 08831
+620000,4.0,3.0,,1,1,9.0,10067.0,Single Family Residential,1934,68.0,65.0,"43 Claremont Ave,North Brunswick, NJ 08902",North Brunswick, 08902
+390000,2.0,2.0,,0,0,5.0,6382.0,Condo/Co-op,,32.0,44.0,"2426 Edward Stec Blvd,Edison, NJ 08837",Edison, 08837
+474900,3.0,1.5,,0,1,6.0,7103.0,Single Family Residential,1957,29.0,32.0,"22 Cambridge Rd,South Brunswick, NJ 08824",South Brunswick, 08824
+294000,2.0,1.0,1204.0,1,0,,4076.0,Single Family Residential,1984,27.0,31.0,"4 Sweetgum Ln,Monmouth Junction, NJ 08852",Monmouth Junction, 08852
+1050000,4.0,3.5,3569.0,1,1,10.0,18204.0,Single Family Residential,2018,0.0,27.0,"6 Ryder Ct,Monroe, NJ 08831",Monroe, 08831
+479000,3.0,1.5,1590.0,1,1,8.0,7254.0,Single Family Residential,1958,41.0,39.0,"8 Mabaline Rd,Old Bridge, NJ 08857",Old Bridge, 08857
+200000,1.0,1.0,658.0,0,0,3.0,5227.0,Single Family Residential,1928,47.0,42.0,"44 South St,Spotswood, NJ 08884",Spotswood, 08884
+510000,,,,1,0,12.0,6000.0,Single Family Residential,1900,93.0,66.0,"351 Handy St,New Brunswick, NJ 08901",New Brunswick, 08901
+285000,3.0,2.0,,1,0,6.0,,Single Family Residential,,12.0,28.0,"67 Gerard Ct,Spotswood, NJ 08884",Spotswood, 08884
+549000,3.0,2.0,,1,1,7.0,7716.0,Single Family Residential,,27.0,35.0,"504 Tompkins Ave,South Plainfield, NJ 07080",South Plainfield, 07080
+639950,6.0,2.5,2200.0,1,1,10.0,9503.0,Single Family Residential,1900,87.0,58.0,"38 Duke St,New Brunswick, NJ 08901",New Brunswick, 08901
+605990,2.0,3.0,1238.0,1,0,,,,,31.0,36.0,"Murray Hill Plan,New Brunswick, NJ 08901",New Brunswick, 08901
+475000,3.0,2.5,,0,1,8.0,9718.0,Single Family Residential,2015,61.0,44.0,"18 Sharot St,Carteret, NJ 07008",Carteret, 07008
+447000,4.0,2.5,2058.0,1,0,7.0,6471.0,Single Family Residential,1907,54.0,35.0,"83 Smullen St,Sayreville, NJ 08872",Sayreville, 08872
+699900,4.0,2.0,,1,1,9.0,15355.0,Single Family Residential,1926,40.0,36.0,"26 Oak Hills Rd,Edison, NJ 08820",Edison, 08820
+295000,2.0,2.0,1486.0,1,0,,,Condo/Co-op,,43.0,33.0,"387A Newport Way Unit A,Monroe Twp., NJ 08831-1823",Monroe Twp., 08831-1823
+708140,3.0,2.0,1925.0,1,0,,,,,6.0,27.0,"6 Fillmore Dr,Monroe Township, NJ 08831",Monroe Township, 08831
+389950,4.0,1.0,780.0,1,1,6.0,6598.0,Single Family Residential,1947,69.0,47.0,"9 Short St,Edison, NJ 08817",Edison, 08817
+850000,5.0,3.0,2910.0,0,1,7.0,14825.0,Single Family Residential,1951,71.0,50.0,"10 Idlewild Rd,Edison, NJ 08817",Edison, 08817
+575000,2.0,3.5,1724.0,0,1,6.0,8814.0,Single Family Residential,,7.0,13.0,"2206 Stelmaszek Rd,Sayreville, NJ 08859",Sayreville, 08859
+550000,3.0,3.0,1529.0,1,1,7.0,7094.0,Single Family Residential,1958,48.0,37.0,"3 Mark Pl,Old Bridge, NJ 08857",Old Bridge, 08857
+475000,5.0,2.5,2141.0,1,1,8.0,8969.0,Single Family Residential,1910,50.0,33.0,"405 Prospect St,South Amboy, NJ 08879",South Amboy, 08879
+399999,3.0,2.5,1280.0,0,0,6.0,4739.0,Single Family Residential,1984,25.0,31.0,"92 Doe Ct,South Brunswick, NJ 08852",South Brunswick, 08852
+425000,3.0,2.0,1848.0,0,1,9.0,6336.0,Single Family Residential,1962,56.0,47.0,"1853 Hughes Ter,Piscataway, NJ 08854",Piscataway, 08854
+419000,,,,1,0,,5665.0,Single Family Residential,1900,90.0,76.0,"137 Townsend St,New Brunswick, NJ 08901",New Brunswick, 08901
+535000,4.0,3.0,2108.0,1,0,7.0,12632.0,Single Family Residential,1947,34.0,26.0,"67 Lyons Ave,Woodbridge Proper, NJ 07095",Woodbridge Proper, 07095
+315000,2.0,2.0,1150.0,1,0,,,Condo/Co-op,,24.0,32.0,"261N Middlebury Ln Unit N,Monroe Twp., NJ 08831-6647",Monroe Twp., 08831-6647
+594888,3.0,2.0,1572.0,1,0,6.0,7086.0,Single Family Residential,1960,44.0,40.0,"16 Mercer Rd,Old Bridge, NJ 08857",Old Bridge, 08857
+335000,2.0,2.0,1264.0,0,0,5.0,6198.0,Condo/Co-op,2006,56.0,36.0,"540 Cranbury Rd #318,East Brunswick, NJ 08816",East Brunswick, 08816
+399900,3.0,2.0,1258.0,1,1,6.0,11503.0,Single Family Residential,,70.0,46.0,"300 Mawbey St,Woodbridge Proper, NJ 07095",Woodbridge Proper, 07095
+839900,4.0,3.0,,0,1,7.0,12024.0,Single Family Residential,1984,19.0,33.0,"2 Thatcher Ct,Edison, NJ 08820",Edison, 08820
+550000,4.0,2.5,2576.0,1,1,9.0,15091.0,Single Family Residential,1980,42.0,39.0,"10 Regal Ct,North Brunswick, NJ 08902",North Brunswick, 08902
+770000,3.0,2.5,3227.0,1,1,,13036.0,Single Family Residential,2020,27.0,30.0,"26 Hyacinth Ln,Monroe Township, NJ 08831",Monroe Township, 08831
+369900,2.0,2.0,1448.0,0,1,6.0,2513.0,Single Family Residential,,29.0,30.0,"A Roxbury Ln,Monroe, NJ 08831",Monroe, 08831
+499900,3.0,2.0,1372.0,0,1,7.0,9718.0,Single Family Residential,1966,15.0,25.0,"260 Edwards Pl,North Brunswick, NJ 08902",North Brunswick, 08902
+320000,2.0,1.5,,0,1,7.0,5578.0,Single Family Residential,1986,84.0,54.0,"493 Fayette St,Perth Amboy, NJ 08861",Perth Amboy, 08861
+499000,3.0,1.0,,1,0,7.0,6549.0,Single Family Residential,1954,34.0,27.0,"37 Merritt Ave,South Amboy, NJ 08879",South Amboy, 08879
+599000,2.0,2.0,,0,1,7.0,7753.0,Single Family Residential,2005,21.0,31.0,"186 Valencia Dr,Monroe, NJ 08831",Monroe, 08831
+959000,5.0,4.0,2895.0,1,1,11.0,,Single Family Residential,1934,33.0,43.0,"150 Central Ave,Piscataway, NJ 08854",Piscataway, 08854
+475000,4.0,2.0,,1,0,9.0,7199.0,Single Family Residential,1941,45.0,40.0,"1253 Brookside Rd,Piscataway, NJ 08854",Piscataway, 08854
+1162535,4.0,3.5,3164.0,1,1,,17164.0,Single Family Residential,,6.0,26.0,"4 Cole Pl,Cranbury, NJ 08512",Cranbury, 08512
+374900,2.0,2.0,1196.0,0,1,8.0,6260.0,Condo/Co-op,,42.0,43.0,"601 Jesse Way,Piscataway, NJ 08854",Piscataway, 08854
+599000,4.0,3.0,2816.0,0,1,10.0,10192.0,Single Family Residential,1958,46.0,41.0,"115 Finnegans Ln,South Brunswick, NJ 08824",South Brunswick, 08824
+649000,4.0,2.0,2048.0,0,1,9.0,9374.0,Single Family Residential,2000,58.0,51.0,"20 E School St,Piscataway, NJ 08854",Piscataway, 08854
+774900,4.0,2.5,2013.0,1,1,8.0,11807.0,Single Family Residential,2011,6.0,28.0,"36 Eddington Ln,Monroe, NJ 08831",Monroe, 08831
+869900,5.0,4.5,3000.0,1,0,8.0,7812.0,Single Family Residential,1952,77.0,59.0,"8 Gurley Rd,Edison, NJ 08817",Edison, 08817
+549900,3.0,2.0,1669.0,0,1,7.0,7807.0,Single Family Residential,1956,3.0,26.0,"141 E Greystone Rd E,Old Bridge, NJ 08857",Old Bridge, 08857
+479000,4.0,1.0,1220.0,1,0,7.0,6161.0,Single Family Residential,1955,25.0,32.0,"79 Hilliard Rd,Old Bridge, NJ 08857",Old Bridge, 08857
+369000,2.0,2.5,1194.0,0,0,5.0,6716.0,Single Family Residential,,33.0,38.0,"299 Palombi Ct,East Brunswick, NJ 08816",East Brunswick, 08816
+599900,4.0,3.0,,1,1,10.0,8982.0,Single Family Residential,1957,29.0,33.0,"200 Rahway Ave,South Plainfield, NJ 07080",South Plainfield, 07080
+37000,,,,1,0,,,Single Family Residential,,42.0,76.0,"Lot 12 Fox Run Dr,Williamsburg, IA 52361",Williamsburg,
+861896,,,792.0,1,0,,,Single Family Residential,1920,69.0,42.0,"326 Durham Ave,Metuchen, NJ 08840",Metuchen, 08840
+524900,3.0,1.5,,1,0,6.0,7860.0,Single Family Residential,1968,41.0,42.0,"29 Martin Ave,Edison, NJ 08837",Edison, 08837
+385000,2.0,1.5,,1,0,6.0,4934.0,Single Family Residential,1920,71.0,49.0,"70 Wheeler Ave,Carteret, NJ 07008",Carteret, 07008
+130000,2.0,2.0,,1,0,5.0,,Mobile/Manufactured Home,,16.0,28.0,"2 Twain Rd,North Brunswick, NJ 08902",North Brunswick, 08902
+329000,2.0,2.0,1176.0,0,0,5.0,4479.0,Single Family Residential,,47.0,31.0,"118 Blake Ct,Old Bridge, NJ 08857",Old Bridge, 08857
+850000,5.0,3.0,,1,0,,,Single Family Residential,,13.0,19.0,"45 Rock Rd,Green Brook Twp., NJ 07069-6206",Green Brook Twp., 07069-6206
+359900,3.0,2.0,,0,1,6.0,3630.0,Condo/Co-op,,23.0,31.0,"320 Persica Plz Unit C,Monroe, NJ 08831",Monroe, 08831
+575000,2.0,2.0,1928.0,0,1,7.0,8334.0,Single Family Residential,2006,12.0,27.0,"19 Sonoma St,Monroe, NJ 08831",Monroe, 08831
+799900,3.0,2.0,2141.0,1,1,7.0,16039.0,Single Family Residential,1955,30.0,32.0,"321 Manalapan Rd,Spotswood, NJ 08884",Spotswood, 08884
+675000,4.0,2.5,,1,1,9.0,8933.0,Single Family Residential,1967,33.0,37.0,"12 Arvin Rd,Old Bridge, NJ 08857",Old Bridge, 08857
+724990,3.0,2.5,2070.0,1,1,7.0,10417.0,Single Family Residential,,38.0,41.0,"44 Vincent Behan Blvd,Edison, NJ 08837",Edison, 08837
+499000,4.0,2.0,,1,1,7.0,6286.0,Single Family Residential,1953,35.0,38.0,"546 Melrose Ave,South Plainfield, NJ 07080",South Plainfield, 07080
+474900,4.0,2.0,1584.0,1,0,,,Single Family Residential,1943,,,"156 Main St,South Bound Brook Boro, NJ 08880",South Bound Brook Boro, 08880
+370000,4.0,3.5,2045.0,1,1,12.0,6873.0,Single Family Residential,,,,"726 Harbortown Blvd,Perth Amboy, NJ 08861",Perth Amboy, 08861
+785000,3.0,3.0,2730.0,0,1,7.0,14747.0,Single Family Residential,,,,"66 Chatsworth Ct,Edison, NJ 08820",Edison, 08820
+1495000,,,4752.0,1,1,18.0,24268.0,Single Family Residential,,,,"165 Livingston Ave,New Brunswick, NJ 08901",New Brunswick, 08901
+289900,3.0,1.0,,0,0,8.0,8051.0,Single Family Residential,1953,,,"537 Lorraine Ave,Middlesex, NJ 08846",Middlesex, 08846
+699000,4.0,4.0,1992.0,1,1,6.0,3125.0,Single Family Residential,1989,,,"52 Fairview Ave,Edison, NJ 08817",Edison, 08817
+639900,4.0,2.5,,1,1,9.0,14405.0,Single Family Residential,1969,,,"18 Dellview Dr,Edison, NJ",Edison,
+474900,4.0,2.0,1584.0,1,0,,,Single Family Residential,1943,,,"156 Main St,South Bound Brook Boro, NJ 08880",South Bound Brook Boro, 08880
+370000,4.0,3.5,2045.0,1,1,12.0,6873.0,Single Family Residential,,,,"726 Harbortown Blvd,Perth Amboy, NJ 08861",Perth Amboy, 08861
+785000,3.0,3.0,2730.0,0,1,7.0,14747.0,Single Family Residential,,,,"66 Chatsworth Ct,Edison, NJ 08820",Edison, 08820
+1495000,,,4752.0,1,1,18.0,24268.0,Single Family Residential,,,,"165 Livingston Ave,New Brunswick, NJ 08901",New Brunswick, 08901
+474900,4.0,2.0,1584.0,1,0,,,Single Family Residential,1943,,,"156 Main St,South Bound Brook Boro, NJ 08880",South Bound Brook Boro, 08880
+370000,4.0,3.5,2045.0,1,1,12.0,6873.0,Single Family Residential,,47.0,49.0,"726 Harbortown Blvd,Perth Amboy, NJ 08861",Perth Amboy, 08861
+785000,3.0,3.0,2730.0,0,1,7.0,14747.0,Single Family Residential,,10.0,31.0,"66 Chatsworth Ct,Edison, NJ 08820",Edison, 08820
+1495000,,,4752.0,1,1,18.0,24268.0,Single Family Residential,,90.0,76.0,"165 Livingston Ave,New Brunswick, NJ 08901",New Brunswick, 08901
+289900,3.0,1.0,,0,0,8.0,8051.0,Single Family Residential,1953,63.0,48.0,"537 Lorraine Ave,Middlesex, NJ 08846",Middlesex, 08846
+699000,4.0,4.0,1992.0,1,1,6.0,3125.0,Single Family Residential,1989,18.0,31.0,"52 Fairview Ave,Edison, NJ 08817",Edison, 08817
+639900,4.0,2.5,,1,1,9.0,14405.0,Single Family Residential,1969,23.0,32.0,"18 Dellview Dr,Edison, NJ",Edison,
+695500,4.0,2.5,2495.0,1,1,9.0,9755.0,Single Family Residential,1950,56.0,42.0,"803 Charles St,South Amboy, NJ 08879",South Amboy, 08879
+429900,2.0,2.5,,1,0,6.0,8181.0,Single Family Residential,,38.0,38.0,"115 Highview Dr,Woodbridge Proper, NJ 07095",Woodbridge Proper, 07095
+440000,3.0,1.5,1508.0,1,1,7.0,9610.0,Single Family Residential,1964,68.0,61.0,"812 Waksman Pl,North Brunswick, NJ 08902",North Brunswick, 08902
+625000,4.0,2.5,,0,1,8.0,9157.0,Single Family Residential,1988,43.0,35.0,"19 Carlisle Ct,Old Bridge, NJ 08857",Old Bridge, 08857
+349000,4.0,1.5,1472.0,1,1,6.0,6527.0,Single Family Residential,1919,86.0,49.0,"100 Broad St,Perth Amboy, NJ 08861",Perth Amboy, 08861
+899999,4.0,2.5,2473.0,1,1,9.0,13128.0,Single Family Residential,2006,4.0,27.0,"41 Potomac Rd,South Brunswick, NJ 08852",South Brunswick, 08852
+425000,3.0,2.5,,0,1,6.0,7186.0,Single Family Residential,1994,39.0,31.0,"7 Tuthill Ct #904,Sayreville, NJ 08872",Sayreville, 08872
+575000,4.0,2.5,1793.0,1,1,8.0,13623.0,Single Family Residential,1966,63.0,52.0,"2 Wyndmoor Way,Edison, NJ 08820",Edison, 08820
+399900,3.0,1.5,1302.0,0,1,7.0,8226.0,Single Family Residential,1955,53.0,43.0,"20 Easton Ave,Spotswood, NJ 08884",Spotswood, 08884
+620000,3.0,1.5,1369.0,1,1,7.0,11526.0,Single Family Residential,1960,34.0,37.0,"944 Ellis Pkwy,Edison, NJ 08820",Edison, 08820
+819999,5.0,3.0,,0,1,9.0,123456.0,Single Family Residential,,75.0,53.0,"461 Old Post Rd,Edison, NJ 08817",Edison, 08817
+579000,2.0,2.0,2134.0,0,1,7.0,9150.0,Single Family Residential,,35.0,31.0,"153 Ryan Ct,Monroe, NJ 08831",Monroe, 08831
+599000,3.0,2.5,,1,1,6.0,623.0,Vacant Land,,26.0,31.0,"30 Stanton Ave,Piscataway, NJ 08854",Piscataway, 08854
+586990,2.0,3.0,2111.0,1,0,,,,,8.0,30.0,"Beacon - Two-Story Plan,Monroe Township, NJ 08831",Monroe Township, 08831
+475000,2.0,2.5,1374.0,0,0,5.0,4840.0,Condo/Co-op,,98.0,68.0,"1 Spring St #602,New Brunswick, NJ 08901",New Brunswick, 08901
+989999,5.0,3.5,3287.0,1,1,12.0,3510.0,Vacant Land,,51.0,34.0,"5 Hausserman Rd,Sayreville, NJ 08872",Sayreville, 08872
+625000,4.0,2.5,2658.0,1,0,,13762.0,Single Family Residential,2000,51.0,41.0,"395 Church Ln,North Brunswick, NJ 08902",North Brunswick, 08902
+519000,4.0,2.0,1440.0,1,0,7.0,2101.0,Vacant Land,1936,41.0,57.0,"235 Garfield Ave,Old Bridge, NJ 08879",Old Bridge, 08879
+389000,2.0,2.0,1260.0,0,1,5.0,6666.0,Single Family Residential,2006,87.0,47.0,"358 W Rector St #509,Perth Amboy, NJ 08861",Perth Amboy, 08861
+420000,4.0,1.5,884.0,1,0,6.0,8405.0,Single Family Residential,1964,54.0,42.0,"14 Deerwood Ave,Edison, NJ 08817",Edison, 08817
+579900,,,,1,1,9.0,10538.0,Single Family Residential,1923,83.0,51.0,"107 Madison Ave,Dunellen, NJ 08812",Dunellen, 08812
+385000,2.0,2.5,1694.0,0,1,6.0,5053.0,Single Family Residential,,19.0,31.0,"5 Chadwick Ln Unit B,Monroe, NJ 08831",Monroe, 08831
+340000,2.0,2.0,1264.0,1,0,5.0,6198.0,Condo/Co-op,2006,56.0,36.0,"540 Cranbury Rd #218,East Brunswick, NJ 08816",East Brunswick, 08816
+419999,3.0,2.0,1238.0,1,0,6.0,7760.0,Single Family Residential,1911,79.0,48.0,"123 Grove Ave,Woodbridge Proper, NJ 07095",Woodbridge Proper, 07095
+525900,,,1964.0,1,1,9.0,10159.0,Single Family Residential,1908,59.0,50.0,"238 Walnut St,Dunellen, NJ 08812",Dunellen, 08812
+599000,3.0,1.0,,1,1,7.0,11168.0,Single Family Residential,,52.0,45.0,"110 Charles St,Old Bridge, NJ 08857",Old Bridge, 08857
+235000,,,,1,0,,2991.0,Vacant Land,,65.0,44.0,"64 Virginia St,South River, NJ 08882",South River, 08882
+349900,2.0,2.0,1228.0,0,0,5.0,6999.0,Single Family Residential,,24.0,16.0,"808 Cypress Ln #808,East Brunswick, NJ 08816",East Brunswick, 08816
+525000,4.0,2.0,,0,0,8.0,7735.0,Single Family Residential,1955,43.0,28.0,"15 Pinetree Dr,Sayreville, NJ 08859",Sayreville, 08859
+45000,2.0,1.0,,1,0,4.0,,Single Family Residential,,29.0,34.0,"135 Oakdale Village Ln,North Brunswick, NJ 08902",North Brunswick, 08902
+480000,2.0,2.0,1306.0,1,0,5.0,1060.0,Condo/Co-op,,1.0,24.0,"918 Vanderbergh Blvd,Monroe Township, NJ 08831",Monroe Township, 08831
+300000,,,,1,1,,2315.0,Vacant Land,,82.0,47.0,"50-52 Broad St,Perth Amboy, NJ 08861",Perth Amboy, 08861
+450000,3.0,2.0,,1,0,5.0,5337.0,Single Family Residential,1954,35.0,46.0,"187 Oakmanor Pkwy,South Plainfield, NJ 07080",South Plainfield, 07080
+470000,4.0,3.0,,1,0,7.0,10011.0,Single Family Residential,1955,80.0,62.0,"242 S 7th Ave,Highland Park, NJ 08904",Highland Park, 08904
+1100000,3.0,2.0,,1,1,7.0,14717.0,Single Family Residential,1927,76.0,44.0,"63 Rose St,Metuchen, NJ 08840",Metuchen, 08840
+230000,2.0,1.0,,0,1,5.0,2731.0,Condo/Co-op,1963,53.0,41.0,"25-B Alva Ct #2502,Edison, NJ 08817",Edison, 08817
+949999,4.0,3.5,2835.0,1,1,9.0,18245.0,Single Family Residential,1991,31.0,36.0,"291 Mckinley Ave,Edison, NJ 08820",Edison, 08820
+299000,3.0,2.0,1175.0,1,1,7.0,3619.0,Single Family Residential,1920,68.0,61.0,"188 Fulton St,New Brunswick, NJ 08901",New Brunswick, 08901
+993352,,,,1,0,,,Single Family Residential,,35.0,35.0,"N. Main N Main St,Cranbury, NJ 08512",Cranbury, 08512
+625000,4.0,2.0,1680.0,1,0,6.0,9111.0,Single Family Residential,1940,50.0,41.0,"4 Weston St,Metuchen, NJ 08840",Metuchen, 08840
+499900,3.0,2.5,1712.0,1,1,,9262.0,Townhouse,1995,21.0,36.0,"7 Barnsdale Dr,Cranbury, NJ 08512",Cranbury, 08512
+249000,1.0,1.0,982.0,0,0,4.0,4189.0,Condo/Co-op,1989,36.0,35.0,"3713 Birchwood Ct,North Brunswick, NJ 08902",North Brunswick, 08902
+700000,5.0,2.5,2496.0,1,1,,16001.0,Single Family Residential,1998,15.0,30.0,"18 Loveland Ct,Cranbury, NJ 08512",Cranbury, 08512
+37000,,,,1,0,,,Single Family Residential,,42.0,76.0,"Lot 16 Fox Run Dr,Williamsburg, IA 52361",Williamsburg,
+359999,3.0,1.0,1241.0,1,0,6.0,5519.0,Single Family Residential,,38.0,40.0,"13 Anne St #13,South River, NJ 08882",South River, 08882
+249999,2.0,1.0,,1,0,,,Condo/Co-op,,29.0,31.0,"137 N Plymouth Ln Unit N,Monroe Twp., NJ 08831-3640",Monroe Twp., 08831-3640
+575000,,,,1,1,,726.0,Vacant Land,1935,57.0,48.0,"40-44 Simplex Ave,New Brunswick, NJ 08901",New Brunswick, 08901
+719000,4.0,2.0,2034.0,0,1,9.0,12400.0,Single Family Residential,1950,59.0,45.0,"41 Terry Ave,Edison, NJ 08820",Edison, 08820
+300000,2.0,2.0,1300.0,0,1,8.0,1716.0,Condo/Co-op,,18.0,29.0,"632 Yorkshire Ln Unit B,Monroe, NJ 08831",Monroe, 08831
+199900,,,,1,0,,3653.0,Single Family Residential,,72.0,51.0,"150 Oak Tree Ave,South Plainfield, NJ 07080",South Plainfield, 07080
+475000,3.0,1.5,,1,1,9.0,10465.0,Single Family Residential,1913,63.0,53.0,"742 Dunellen Ave,Dunellen, NJ 08812",Dunellen, 08812
+699000,3.0,2.0,,1,1,8.0,12539.0,Single Family Residential,1964,24.0,32.0,"11 Walker Ave,Edison, NJ 08820",Edison, 08820
+739000,,,2458.0,1,1,10.0,9481.0,Single Family Residential,1912,93.0,63.0,"8 Brookside Ave,New Brunswick, NJ 08901",New Brunswick, 08901
+445000,2.0,2.0,1626.0,0,1,6.0,4900.0,Single Family Residential,1999,8.0,16.0,"34 Ardsleigh Pl,Monroe, NJ 08831",Monroe, 08831
+479000,3.0,2.5,1828.0,1,1,7.0,10517.0,Single Family Residential,1919,63.0,48.0,"414 Prospect Ave,Dunellen, NJ 08812",Dunellen, 08812
+289900,3.0,2.0,,1,1,6.0,8565.0,Single Family Residential,1929,67.0,51.0,"55 Mary St,Carteret, NJ 07008",Carteret, 07008
+495999,3.0,2.0,1247.0,1,1,9.0,9521.0,Single Family Residential,1963,33.0,45.0,"3 Stanley Rd,East Brunswick, NJ 08816",East Brunswick, 08816
+399000,3.0,2.0,1271.0,1,0,6.0,5597.0,Single Family Residential,1940,37.0,35.0,"776 Greenwood Ave,Old Bridge, NJ 08879",Old Bridge, 08879
+138000,,1.0,668.0,1,0,,3884.0,Condo/Co-op,,43.0,62.0,"2404 Windrow Dr,Princeton, NJ 08540",Princeton, 08540
+520000,2.0,2.0,1310.0,1,0,,,Single Family Residential,,98.0,68.0,"1 Spring St #0904,New Brunswick, NJ 08901",New Brunswick, 08901
+725000,5.0,2.5,2640.0,1,1,10.0,11535.0,Single Family Residential,1971,70.0,51.0,"64 Gramercy Dr,Piscataway, NJ 08854",Piscataway, 08854
+299000,,,6144.0,1,0,,5600.0,Single Family Residential,,93.0,72.0,"34 Lee Ave,New Brunswick, NJ 08901",New Brunswick, 08901
+831995,2.0,2.0,2029.0,1,0,,,,,6.0,26.0,"Eason Plan,Cranbury, NJ 08512",Cranbury, 08512
+419000,,,1524.0,1,1,9.0,6331.0,Single Family Residential,1990,91.0,51.0,"344 Watson Ave,Perth Amboy, NJ 08861",Perth Amboy, 08861
+530000,5.0,2.0,2415.0,1,0,12.0,9934.0,Single Family Residential,1920,93.0,75.0,"211 Redmond St,New Brunswick, NJ 08901",New Brunswick, 08901
+400000,2.0,2.0,1532.0,0,0,5.0,6246.0,Condo/Co-op,2004,22.0,45.0,"263 Pinelli Dr #263,Piscataway, NJ 08854",Piscataway, 08854
+575000,3.0,2.0,,1,1,9.0,9158.0,Single Family Residential,1963,2.0,19.0,"21 White Pine Rd,South Brunswick, NJ 08831",South Brunswick, 08831
+869990,4.0,3.5,2555.0,1,0,,,,,0.0,25.0,"Hanover Plan,Old Bridge, NJ 08857",Old Bridge, 08857
+549000,4.0,2.5,2389.0,1,1,8.0,13194.0,Single Family Residential,1972,51.0,35.0,"68 Central Ave,East Brunswick, NJ 08816",East Brunswick, 08816
+249900,2.0,1.0,,0,1,5.0,1815.0,Single Family Residential,,26.0,33.0,"157 Pelham Ln,Monroe, NJ 08831",Monroe, 08831
+899900,5.0,4.0,3440.0,1,1,12.0,14831.0,Single Family Residential,2004,14.0,33.0,"93 Deans Ln,South Brunswick, NJ 08852",South Brunswick, 08852
+60000,,,,1,0,,,Vacant Land,1935,57.0,48.0,"52 Simplex Ave,New Brunswick, NJ 08901",New Brunswick, 08901
+270000,2.0,1.5,,0,0,5.0,1952.0,Condo/Co-op,,41.0,39.0,"100 John T O Leary Blvd #408,South Amboy, NJ 08879",South Amboy, 08879
+340000,2.0,2.0,1226.0,0,1,6.0,7868.0,Condo/Co-op,1985,25.0,28.0,"208 Wycoff Way W #208,East Brunswick, NJ 08816",East Brunswick, 08816
+579000,3.0,2.0,1457.0,1,1,9.0,11356.0,Single Family Residential,1966,40.0,38.0,"91 Hillsdale Rd,East Brunswick, NJ 08816",East Brunswick, 08816
+350000,2.0,2.0,1528.0,0,1,6.0,2327.0,Condo/Co-op,,16.0,27.0,"13 Ethan Allen Drive Dr Unit C,Monroe, NJ 08831",Monroe, 08831
+788888,4.0,2.5,3314.0,1,1,10.0,12679.0,Single Family Residential,1964,2.0,33.0,"85 Ross Hall Blvd N,Piscataway, NJ 08854",Piscataway, 08854
+1750000,,,,1,0,,248.0,Single Family Residential,,5.0,26.0,"B Davidson Mill Rd,South Brunswick, NJ 08902",South Brunswick, 08902
+373000,4.0,2.0,,0,0,7.0,5129.0,Single Family Residential,,36.0,28.0,"450 Main St,Sayreville, NJ 08872",Sayreville, 08872
+350000,2.0,1.5,,1,1,8.0,5440.0,Single Family Residential,1915,52.0,49.0,"805 Drake Ave,Middlesex, NJ 08846",Middlesex, 08846
+999999,6.0,4.0,,1,1,9.0,10275.0,Single Family Residential,1967,12.0,26.0,"770 Old Raritan Rd,Edison, NJ 08820",Edison, 08820
+425000,2.0,2.0,,1,1,,5820.0,Single Family Residential,,98.0,72.0,"20 Livingston Ave #606,New Brunswick, NJ 08901",New Brunswick, 08901
+375000,2.0,2.5,1680.0,0,1,6.0,6881.0,Single Family Residential,1991,62.0,47.0,"93 Aspen Dr,North Brunswick, NJ 08902",North Brunswick, 08902
+250000,2.0,1.0,,1,0,,,Single Family Residential,1942,56.0,43.0,"697 Colgate Ave,Perth Amboy City, NJ 08861-2343",Perth Amboy City, 08861-2343
+529900,3.0,2.5,,1,1,6.0,9948.0,Single Family Residential,,95.0,50.0,"A Middlesex Ave,Metuchen, NJ 08840",Metuchen, 08840
+649900,4.0,1.0,,1,1,9.0,10276.0,Single Family Residential,1920,56.0,46.0,"382 Main St,Spotswood, NJ 08884",Spotswood, 08884
+749900,4.0,2.0,2400.0,1,1,9.0,7006.0,Single Family Residential,1966,60.0,44.0,"359 Durham Ave,Metuchen, NJ 08840",Metuchen, 08840
+295000,2.0,2.0,1181.0,0,0,7.0,4595.0,Single Family Residential,,67.0,61.0,"914 Cedar Ct,New Brunswick, NJ 08901",New Brunswick, 08901
+430000,3.0,1.5,1360.0,1,0,9.0,5896.0,Single Family Residential,1909,86.0,47.0,"279 Washington St,Perth Amboy, NJ 08861",Perth Amboy, 08861
+849000,5.0,3.0,2875.0,1,1,9.0,2638.0,Other,,61.0,47.0,"439 Hancock St,South Plainfield, NJ 07080",South Plainfield, 07080
+225000,1.0,1.0,942.0,0,0,5.0,2680.0,Condo/Co-op,1982,58.0,46.0,"103 N Oaks Blvd,North Brunswick, NJ 08902",North Brunswick, 08902
+740000,8.0,3.0,3095.0,1,0,11.0,9223.0,Single Family Residential,1890,82.0,47.0,"410 High St,Perth Amboy, NJ 08861",Perth Amboy, 08861
+625000,3.0,2.5,1450.0,1,1,7.0,9924.0,Single Family Residential,2000,16.0,33.0,"6 Jordan Way,South Brunswick, NJ 08852",South Brunswick, 08852
+669999,4.0,2.5,2013.0,1,1,9.0,10233.0,Single Family Residential,2015,1.0,26.0,"420 Morning Glory Dr,Middlesex, NJ 08831",Middlesex, 08831
+749000,4.0,3.0,,1,1,13.0,12410.0,Single Family Residential,1967,56.0,39.0,"15 Driftwood Dr,Sayreville, NJ 08859",Sayreville, 08859
+599000,,,,1,0,,5457.0,Other,,17.0,29.0,"154 Union Valley Rd,Monroe, NJ 08831",Monroe, 08831
+575000,2.0,3.5,1794.0,0,0,,2022.0,Condo/Co-op,,7.0,13.0,"2206 Stelmaszek Rd #2206,Parlin, NJ 08859",Parlin, 08859
+1290000,7.0,5.0,,1,1,9.0,27514.0,Single Family Residential,1962,27.0,36.0,"3 Clive Hills Rd,Edison, NJ 08820",Edison, 08820
+485000,4.0,2.0,,1,1,7.0,7834.0,Single Family Residential,1943,77.0,59.0,"99 Old Post Rd,Edison, NJ 08817",Edison, 08817
+549000,4.0,2.5,2130.0,1,1,8.0,11908.0,Single Family Residential,1970,41.0,39.0,"1 Desmet Ave,Milltown, NJ 08850",Milltown, 08850
+595000,4.0,2.5,,0,1,8.0,8048.0,Single Family Residential,1960,8.0,41.0,"70 Mitchell Dr,Piscataway, NJ 08854",Piscataway, 08854
+464500,3.0,2.5,1540.0,0,1,6.0,7282.0,Single Family Residential,,30.0,33.0,"254 Deep Brook Ct,Piscataway, NJ 08854",Piscataway, 08854
+495000,4.0,2.0,2133.0,1,1,7.0,11736.0,Single Family Residential,1933,82.0,51.0,"6 Barnard St,Highland Park, NJ 08904",Highland Park, 08904
+899000,4.0,3.0,2715.0,1,0,13.0,7531.0,Single Family Residential,1959,24.0,31.0,"198 Normandy Rd,Edison, NJ 08820",Edison, 08820
+325900,2.0,1.0,,0,0,5.0,6818.0,Condo/Co-op,1982,64.0,45.0,"143G Beverly Hill Ter #4307,Woodbridge Proper, NJ 07095",Woodbridge Proper, 07095
+765000,2.0,2.0,2357.0,1,1,7.0,13533.0,Single Family Residential,2005,8.0,21.0,"16 Winnie Palmer Ct,Monroe, NJ 08831",Monroe, 08831
+579000,4.0,2.0,1788.0,0,0,10.0,7860.0,Single Family Residential,1965,79.0,47.0,"85 Gaskill Ave,Edison, NJ 08817",Edison, 08817
+649000,3.0,1.5,2133.0,1,1,7.0,12380.0,Single Family Residential,1952,19.0,29.0,"48 Patton Dr,East Brunswick, NJ 08816",East Brunswick, 08816
+590000,3.0,2.5,1900.0,1,1,,9152.0,Single Family Residential,,8.0,25.0,"701 Pheasant Run,Monmouth Junction, NJ 08852",Monmouth Junction, 08852
+460000,4.0,2.0,1305.0,1,0,,7642.0,Single Family Residential,1959,30.0,38.0,"12 Charmello Dr,South Amboy, NJ 08879",South Amboy, 08879
+699000,4.0,3.5,1782.0,1,1,9.0,12009.0,Single Family Residential,1910,61.0,65.0,"509 S 1st Ave,Highland Park, NJ 08904",Highland Park, 08904
+565000,4.0,2.0,1464.0,1,0,10.0,6578.0,Single Family Residential,1900,92.0,63.0,"244 Hamilton St,New Brunswick, NJ 08901",New Brunswick, 08901
+700000,4.0,2.5,2314.0,1,1,8.0,11169.0,Single Family Residential,1969,22.0,31.0,"1039 Lovell Pl,North Brunswick, NJ 08902",North Brunswick, 08902
+220000,1.0,1.0,975.0,1,0,,7289.0,Condo/Co-op,,33.0,56.0,"2326 Windrow Dr,Princeton, NJ 08540",Princeton, 08540
+437000,3.0,2.0,,1,0,5.0,3486.0,Single Family Residential,1931,67.0,49.0,"46 Elm St,Edison, NJ 08817",Edison, 08817
+468000,2.0,1.5,1626.0,0,1,5.0,10079.0,Single Family Residential,1999,80.0,34.0,"265 Front St,Perth Amboy, NJ 08861",Perth Amboy, 08861
+575000,3.0,2.5,1450.0,1,1,6.0,1.0,Single Family Residential,,42.0,49.0,"484 Harding Rd,Old Bridge, NJ 08857",Old Bridge, 08857
+525000,3.0,1.5,1392.0,1,0,8.0,7469.0,Single Family Residential,1927,60.0,69.0,"7 Jefferson Ave,Edison, NJ 08837",Edison, 08837
+425000,2.0,2.0,,1,1,6.0,4008.0,Single Family Residential,,31.0,32.0,"18 Dolley Madison Dr Unit A,Monroe, NJ 08831",Monroe, 08831
+347777,2.0,2.5,1766.0,1,1,5.0,3434.0,Single Family Residential,,21.0,27.0,"215 N Pondview Blvd,Monroe, NJ 08831",Monroe, 08831
+769000,,,,1,1,,11845.0,Multi-Family (2-4 Unit),,65.0,50.0,"B Wright Pl,New Brunswick, NJ 08901",New Brunswick, 08901
+440000,2.0,2.0,1226.0,1,0,,6653.0,Condo/Co-op,2022,1.0,24.0,"821 Stiller Ln #821,Monroe Twp, NJ 08831",Monroe Twp, 08831
+570000,3.0,1.5,1350.0,1,1,6.0,9009.0,Single Family Residential,1959,49.0,43.0,"13 Moryan Rd,Edison, NJ 08817",Edison, 08817
+999900,4.0,3.0,3130.0,1,1,10.0,14573.0,Single Family Residential,2005,0.0,25.0,"1007 Antoinette Dr,Monroe, NJ 08831",Monroe, 08831
+424900,3.0,3.0,,1,1,7.0,7156.0,Single Family Residential,1927,68.0,47.0,"68 Wilmot St,East Brunswick, NJ 08816",East Brunswick, 08816
+480000,,,1857.0,1,1,11.0,8925.0,Single Family Residential,1980,91.0,46.0,"290 High St,Perth Amboy, NJ 08861",Perth Amboy, 08861
+400000,,,,1,0,,,Vacant Land,,37.0,34.0,"0 Melrose Ave,South Amboy, NJ 08879",South Amboy, 08879
+699000,3.0,1.5,,1,1,9.0,8353.0,Single Family Residential,1912,0.0,24.0,"586 Spotswood-englishtown Rd,Monroe, NJ 08831",Monroe, 08831
+699000,3.0,2.5,,1,1,,3360.0,Single Family Residential,,2.0,24.0,"41 Valentino Dr,Old Bridge, NJ 08857",Old Bridge, 08857
+625000,4.0,2.5,2330.0,1,1,8.0,13564.0,Single Family Residential,1987,41.0,36.0,"126 Moretti Ln,Edison, NJ 08817",Edison, 08817
+245000,1.0,1.0,982.0,0,1,4.0,4189.0,Condo/Co-op,1989,36.0,35.0,"3705 S Birchwood Ct,North Brunswick, NJ 08902",North Brunswick, 08902
+399900,2.0,2.0,1541.0,0,1,5.0,7813.0,Condo/Co-op,,19.0,47.0,"438 Tower Blvd,Piscataway, NJ 08854",Piscataway, 08854
+335000,1.0,1.0,1070.0,0,0,6.0,3561.0,Single Family Residential,1982,46.0,34.0,"73 Percival Ct,Old Bridge, NJ 08857",Old Bridge, 08857
+899000,4.0,3.5,,1,1,9.0,12575.0,Single Family Residential,2000,18.0,9.0,"5 Charter Dr,South River, NJ 08882",South River, 08882
+1249000,5.0,4.0,3870.0,1,1,9.0,24991.0,Single Family Residential,2014,35.0,25.0,"56 Fern Rd,East Brunswick, NJ 08816",East Brunswick, 08816
+799000,4.0,3.5,3051.0,1,1,10.0,15169.0,Single Family Residential,,30.0,37.0,"1811 Bellew Pl,South Plainfield, NJ 07080",South Plainfield, 07080
+439000,3.0,1.0,,0,0,5.0,6421.0,Single Family Residential,1952,50.0,41.0,"53 Ashley Rd,Edison, NJ 08817",Edison, 08817
+344999,2.0,1.0,1050.0,1,1,5.0,6458.0,Single Family Residential,1945,52.0,42.0,"115 High St,Piscataway, NJ 08854",Piscataway, 08854
+1450000,5.0,4.5,3516.0,1,1,10.0,25410.0,Single Family Residential,2006,32.0,34.0,"3 Sovar Ct,Edison, NJ 08820",Edison, 08820
+399900,2.0,2.0,1208.0,1,0,,2022.0,Condo/Co-op,2007,28.0,31.0,"1054 Morning Glory Dr #1054,Monroe, NJ 08831",Monroe, 08831
+519000,2.0,2.0,1306.0,1,0,5.0,1641.0,Multi-Family (2-4 Unit),,2.0,20.0,"1128 Vanderbergh Blvd,Monroe, NJ 08831",Monroe, 08831
+377345,,,,1,0,,,Multi-Family (2-4 Unit),,61.0,58.0,"61 Whitehead Ave,South River, NJ 08882",South River, 08882
+875898,5.0,3.0,,0,1,11.0,,Single Family Residential,1951,72.0,53.0,"36 Runyon Ave,Edison, NJ 08817",Edison, 08817
+110000,2.0,1.0,,1,0,5.0,,Single Family Residential,,46.0,41.0,"14 Christina Dr,Avenel, NJ 07001",Avenel, 07001
+197999,2.0,1.0,702.0,0,0,5.0,1551.0,Condo/Co-op,,28.0,41.0,"18 College Dr,Edison, NJ 08817",Edison, 08817
+738550,4.0,2.5,,1,0,,,Single Family Residential,1976,19.0,33.0,"13 Dorothy Ln,East Brunswick Twp., NJ 08850",East Brunswick Twp., 08850
+595500,3.0,1.5,,1,0,,,Single Family Residential,1954,4.0,11.0,"1807 Woodland Ter,Bridgewater Twp., NJ 08805-1436",Bridgewater Twp., 08805-1436
+405000,3.0,2.0,948.0,1,0,7.0,5048.0,Single Family Residential,1942,46.0,57.0,"116 Mckinley Ave,South Amboy, NJ 08879",South Amboy, 08879
+424999,5.0,1.0,1734.0,1,0,8.0,5160.0,Single Family Residential,1953,48.0,46.0,"84 Marion St,Carteret, NJ 07008",Carteret, 07008
+519900,2.0,2.0,1241.0,0,0,6.0,7278.0,Single Family Residential,,98.0,68.0,"1 Spring St #2203,New Brunswick, NJ 08901",New Brunswick, 08901
+500000,4.0,2.0,2000.0,1,0,10.0,8456.0,Single Family Residential,1940,73.0,38.0,"333-335 George St,South Amboy, NJ 08879",South Amboy, 08879
+525000,3.0,3.0,1812.0,0,1,10.0,7943.0,Single Family Residential,2003,14.0,27.0,"27 George W Helme Dr,Helmetta, NJ 08828",Helmetta, 08828
+591990,2.0,3.0,2108.0,1,0,,,,,8.0,30.0,"Astor - Two-Story Plan,Monroe Township, NJ 08831",Monroe Township, 08831
+264900,2.0,2.0,1151.0,0,1,6.0,1579.0,Condo/Co-op,1987,48.0,39.0,"22H Rothwell Dr Unit 22H,Monroe, NJ 08831",Monroe, 08831
+750000,,,,1,0,,1459.0,Multi-Family (2-4 Unit),,75.0,53.0,"62 Mitchell Ave,New Brunswick, NJ 08901",New Brunswick, 08901
+380000,2.0,2.5,1332.0,0,0,5.0,4780.0,Single Family Residential,,6.0,27.0,"812 Darlington Dr,Old Bridge, NJ 08857",Old Bridge, 08857
+619500,4.0,2.0,1852.0,0,1,9.0,6995.0,Single Family Residential,1961,23.0,31.0,"6 Kim Ct,Old Bridge, NJ 08857",Old Bridge, 08857
+775000,,,3160.0,1,0,16.0,11743.0,Single Family Residential,1929,85.0,46.0,"358 Lawrie St,Perth Amboy, NJ 08861",Perth Amboy, 08861
+825000,,,,1,0,,12753.0,Vacant Land,,22.0,26.0,"26 Mare Haven Ct,North Brunswick, NJ 08902",North Brunswick, 08902
+699000,6.0,2.0,2768.0,1,1,13.0,11839.0,Single Family Residential,1920,61.0,39.0,"424 Portia St,South Amboy, NJ 08879",South Amboy, 08879
+468000,3.0,2.0,1488.0,1,1,8.0,6825.0,Single Family Residential,1944,39.0,43.0,"2106 Bell Pl,South Plainfield, NJ 07080",South Plainfield, 07080
+399000,2.0,2.0,1415.0,0,1,7.0,3414.0,Single Family Residential,1991,15.0,26.0,"10B Edinburgh Dr,Monroe, NJ 08831",Monroe, 08831
+350000,2.0,2.5,1283.0,1,1,5.0,6042.0,Single Family Residential,,53.0,51.0,"558 Great Beds Ct,Perth Amboy, NJ 08861",Perth Amboy, 08861
+389000,2.0,2.0,1260.0,1,0,,1935.0,Single Family Residential,,36.0,33.0,"361-C Old Nassau Rd,Monroe Township, NJ 08831",Monroe Township, 08831
+999000,5.0,3.0,3976.0,1,1,10.0,20309.0,Single Family Residential,1989,11.0,27.0,"2 Pine Meadow Ct,East Brunswick, NJ 08816",East Brunswick, 08816
+300000,2.0,1.5,,1,1,5.0,4640.0,Single Family Residential,1905,64.0,36.0,"66 Hillside Ave,South River, NJ 08882",South River, 08882
+369900,4.0,3.5,2245.0,1,1,12.0,6873.0,Townhouse,,47.0,49.0,"748 Harbortown Blvd,Perth Amboy, NJ 08861",Perth Amboy, 08861
+355000,2.0,2.0,1100.0,0,0,6.0,7406.0,Condo/Co-op,1987,90.0,77.0,"201 S 2nd Ave #24,Highland Park, NJ 08904",Highland Park, 08904
+499000,3.0,2.0,1334.0,1,1,6.0,6515.0,Single Family Residential,1905,35.0,35.0,"237 Manalapan Rd,Spotswood, NJ 08884",Spotswood, 08884
+449900,3.0,2.5,,0,1,7.0,6931.0,Single Family Residential,,46.0,39.0,"7 Vandeventer Ct,Sayreville, NJ 08872",Sayreville, 08872
+699000,4.0,3.0,2650.0,1,1,9.0,11350.0,Single Family Residential,1957,32.0,37.0,"100 Hill Hollow Rd,South Plainfield, NJ 07080",South Plainfield, 07080
+349900,2.0,2.0,,1,0,5.0,5665.0,Single Family Residential,,67.0,46.0,"26 Martin Ter #1,Woodbridge Proper, NJ 07095",Woodbridge Proper, 07095
+335000,2.0,2.0,1118.0,0,1,5.0,5279.0,Condo/Co-op,1985,26.0,28.0,"168 Wycoff Way #168,East Brunswick, NJ 08816",East Brunswick, 08816
+640000,4.0,2.5,,1,1,11.0,11109.0,Single Family Residential,,79.0,51.0,"2411 Plainfield Ave,South Plainfield, NJ 07080",South Plainfield, 07080
+199000,,,,1,0,,3082.0,Other,,46.0,45.0,"1758 S 2nd St,Piscataway, NJ 08854",Piscataway, 08854
+389900,2.0,2.0,1404.0,1,1,6.0,3558.0,Single Family Residential,1983,14.0,28.0,"12A Scarborough Rd,Monroe, NJ 08831",Monroe, 08831
+674500,4.0,3.0,1590.0,1,0,13.0,8741.0,Single Family Residential,1910,66.0,69.0,"15 Cleveland Ave,Highland Park, NJ 08904",Highland Park, 08904
+720000,4.0,3.0,2216.0,0,0,10.0,12267.0,Single Family Residential,1952,71.0,45.0,"18 Baxter Rd,Edison, NJ 08817",Edison, 08817
+525000,3.0,2.5,1575.0,1,1,7.0,10193.0,Condo/Co-op,2000,36.0,33.0,"40 Jared Dr,North Brunswick, NJ 08902",North Brunswick, 08902
+249900,2.0,1.5,1130.0,1,0,,3313.0,Condo/Co-op,,28.0,42.0,"1310 Bradley Ct #2,Princeton, NJ 08540",Princeton, 08540
+210000,3.0,2.0,1396.0,0,0,5.0,4000.0,Single Family Residential,,84.0,77.0,"128B Remsen Ave #2,New Brunswick, NJ 08901",New Brunswick, 08901
+799000,3.0,2.0,2357.0,1,1,,14473.0,Single Family Residential,1962,35.0,38.0,"15 Devon Rd,Edison, NJ 08820",Edison, 08820
+165000,1.0,1.0,756.0,0,0,4.0,3724.0,Condo/Co-op,1964,50.0,44.0,"289 Main St Unit 6H,Spotswood, NJ 08884",Spotswood, 08884
+327000,3.0,1.0,,1,0,6.0,3811.0,Single Family Residential,1900,88.0,73.0,"238 Baldwin St,New Brunswick, NJ 08901",New Brunswick, 08901
+629900,3.0,3.0,2294.0,1,1,,11402.0,Single Family Residential,2005,5.0,27.0,"29 Copernicus Ct,Cranbury, NJ 08512",Cranbury, 08512
+399900,2.0,2.5,1676.0,1,0,5.0,6624.0,Single Family Residential,1982,38.0,32.0,"344 Jester Ct,Old Bridge, NJ 08857",Old Bridge, 08857
+679900,3.0,2.5,2699.0,1,1,7.0,3245.0,Vacant Land,,5.0,21.0,"115 Valentino Dr,Old Bridge, NJ 08857",Old Bridge, 08857
+449000,3.0,2.0,1802.0,0,1,6.0,4739.0,Condo/Co-op,,18.0,28.0,"241A Vernon Rd,Monroe, NJ 08831",Monroe, 08831
+399900,4.0,1.0,1152.0,1,0,6.0,6509.0,Single Family Residential,1960,62.0,42.0,"824 S Washington Ave,Piscataway, NJ 08854",Piscataway, 08854
+649900,4.0,3.0,1562.0,0,1,8.0,11307.0,Single Family Residential,1961,18.0,39.0,"11 Hallo St,Edison, NJ 08837",Edison, 08837
+350000,2.0,2.0,1041.0,0,0,5.0,4940.0,Single Family Residential,1982,40.0,34.0,"289 Bishop Ct,Old Bridge, NJ 08857",Old Bridge, 08857
+619000,3.0,2.5,2059.0,1,1,8.0,9486.0,Single Family Residential,1990,3.0,28.0,"103 Fairway Blvd,Monroe, NJ 08831",Monroe, 08831
+640000,5.0,3.5,2948.0,1,1,8.0,14875.0,Single Family Residential,1916,79.0,48.0,"209 Mawbey St,Woodbridge Proper, NJ 07095",Woodbridge Proper, 07095
+874990,3.0,2.5,2653.0,1,0,,,,,0.0,25.0,"Peachtree II Plan,Old Bridge, NJ 08857",Old Bridge, 08857
+853995,2.0,2.0,2272.0,1,0,,,,,6.0,26.0,"Chesterlyn Plan,Cranbury, NJ 08512",Cranbury, 08512
+299980,1.0,1.0,,1,0,6.0,5329.0,Single Family Residential,,59.0,41.0,"135 Main St,Sayreville, NJ 08872",Sayreville, 08872
+450000,3.0,1.0,1392.0,1,1,7.0,8703.0,Single Family Residential,1963,19.0,29.0,"120 Clyne Ave,Spotswood, NJ 08884",Spotswood, 08884
+986995,3.0,3.0,3235.0,1,0,,,,,6.0,26.0,"Collingsworth Plan,Cranbury, NJ 08512",Cranbury, 08512
+495000,3.0,1.0,,1,1,8.0,7135.0,Single Family Residential,,45.0,40.0,"2047 Greenwich St,South Plainfield, NJ 07080",South Plainfield, 07080
+1750000,5.0,3.5,3814.0,1,1,12.0,3481.0,Single Family Residential,,17.0,20.0,"4120-4122 Route 27 #27,Princeton, NJ 08540",Princeton, 08540
+1899900,5.0,5.5,5882.0,1,1,12.0,34230.0,Single Family Residential,2008,15.0,16.0,"12 Hayduk Dr,Edison, NJ 08820",Edison, 08820
+425000,2.0,1.0,,1,1,5.0,4454.0,Single Family Residential,,51.0,28.0,"475 Washington Rd,Sayreville, NJ 08872",Sayreville, 08872
+589900,3.0,1.5,,1,0,,,Single Family Residential,1966,43.0,38.0,"115 Janice Dr,Spotswood Boro, NJ 08884",Spotswood Boro, 08884
+489900,3.0,2.5,1944.0,1,1,7.0,8567.0,Single Family Residential,,24.0,29.0,"41 Woods Edge Ct,Sayreville, NJ 08859",Sayreville, 08859
+448900,3.0,2.0,,0,0,8.0,7253.0,Single Family Residential,,29.0,22.0,"36 Kendall Dr,Sayreville, NJ 08859",Sayreville, 08859
+379900,2.0,2.0,1304.0,0,1,5.0,2776.0,Condo/Co-op,1977,20.0,28.0,"267B Glen Rd Unit 267B,Monroe, NJ 08831",Monroe, 08831
+324999,3.0,2.0,1222.0,0,0,3.0,3099.0,Condo/Co-op,,43.0,45.0,"1123 Edpas Rd,New Brunswick, NJ 08901",New Brunswick, 08901
+208379,2.0,1.0,,1,0,5.0,3600.0,Condo/Co-op,,84.0,77.0,"128 Remsen Ave Unit A,New Brunswick, NJ 08901",New Brunswick, 08901
+424900,3.0,2.5,,1,1,6.0,6759.0,Single Family Residential,1910,69.0,48.0,"36 Lincoln Ave,Carteret, NJ 07008",Carteret, 07008
+824900,5.0,4.5,5300.0,1,1,10.0,33158.0,Single Family Residential,1991,7.0,25.0,"8 Golden Pond Dr,East Brunswick, NJ 08850",East Brunswick, 08850
+588888,4.0,3.0,1331.0,1,1,8.0,6806.0,Single Family Residential,1947,57.0,36.0,"112 Plainfield Ave,Piscataway, NJ 08854",Piscataway, 08854
+899900,4.0,3.5,2591.0,1,1,11.0,18674.0,Single Family Residential,2003,49.0,31.0,"7 Hawk Ct,East Brunswick, NJ 08816",East Brunswick, 08816
+799990,4.0,4.0,3106.0,0,1,11.0,9208.0,Single Family Residential,2017,5.0,19.0,"41 Inverness Dr,South Brunswick, NJ 08824",South Brunswick, 08824
+670000,3.0,2.5,2825.0,1,1,,3766.0,Vacant Land,,7.0,45.0,"44 Riverwalk,Plainsboro, NJ 08536",Plainsboro, 08536
+713000,3.0,2.5,2955.0,1,1,,,Vacant Land,2020,7.0,45.0,"12 Riverwalk,Plainsboro, NJ 08536",Plainsboro, 08536
+900000,5.0,2.5,,1,1,10.0,14123.0,Single Family Residential,,32.0,29.0,"40 Fritz Dr,Sayreville, NJ 08872",Sayreville, 08872
+629000,5.0,2.0,,1,1,12.0,10130.0,Single Family Residential,,52.0,45.0,"1310 Hamilton Blvd,Middlesex, NJ 07080",Middlesex, 07080
+599000,,,4625.0,1,1,10.0,7273.0,Single Family Residential,1910,66.0,57.0,"17 Player Ave,Edison, NJ 08817",Edison, 08817
+359000,4.0,1.5,1364.0,1,1,6.0,7000.0,Single Family Residential,,87.0,48.0,"141 Brighton Ave,Perth Amboy, NJ 08861",Perth Amboy, 08861
+519900,3.0,1.5,,1,1,8.0,9055.0,Single Family Residential,1979,2.0,29.0,"15 Snowdrift Dr,Piscataway, NJ 08854",Piscataway, 08854
+379900,2.0,1.0,,1,0,6.0,5745.0,Single Family Residential,,57.0,39.0,"24 Hart St,Sayreville, NJ 08872",Sayreville, 08872
+440000,3.0,1.0,1238.0,1,1,7.0,6515.0,Single Family Residential,1910,78.0,56.0,"162 Prigmore St,East Brunswick, NJ 08816",East Brunswick, 08816
+279500,2.0,2.0,,0,1,5.0,2373.0,Single Family Residential,,18.0,31.0,"83 Winthrop Dr Unit C,Monroe, NJ 08831",Monroe, 08831
+550000,3.0,2.5,1682.0,1,1,8.0,9312.0,Single Family Residential,1969,58.0,42.0,"678 Gornik Dr,Perth Amboy, NJ 08861",Perth Amboy, 08861
+579000,5.0,4.0,,0,1,13.0,12640.0,Single Family Residential,1981,43.0,37.0,"868 Inman Ave,Edison, NJ 08820",Edison, 08820
+579900,4.0,3.0,2888.0,1,0,,,Single Family Residential,,34.0,33.0,"507 Jordan Way,Monroe Twp., NJ 08831-3777",Monroe Twp., 08831-3777
+350000,2.0,2.0,1528.0,0,1,6.0,2330.0,Single Family Residential,,22.0,29.0,"D James Buchanan Dr,Monroe, NJ 08831",Monroe, 08831
+545000,3.0,2.5,1790.0,1,0,7.0,6078.0,Single Family Residential,1952,17.0,10.0,"42 Wilcox Rd,New Brunswick, NJ 08901",New Brunswick, 08901
+899900,4.0,3.5,2591.0,1,0,,,Single Family Residential,,49.0,31.0,"7 Hawk Ct #7,East Brunswick Twp., NJ 08816-2274",East Brunswick Twp., 08816-2274
+389000,4.0,2.0,2386.0,1,0,8.0,8987.0,Single Family Residential,1914,73.0,55.0,"226 John St,South Amboy, NJ 08879",South Amboy, 08879
+420000,3.0,1.5,,1,1,8.0,8761.0,Single Family Residential,1957,60.0,39.0,"5 E Stratford Rd,East Brunswick, NJ 08816",East Brunswick, 08816
+220000,2.0,1.0,,0,0,4.0,5064.0,Condo/Co-op,,25.0,42.0,"312 College Dr,Edison, NJ 08817",Edison, 08817
+539000,3.0,1.5,1305.0,1,1,8.0,10068.0,Single Family Residential,1957,31.0,30.0,"22 Rieder Rd,Spotswood, NJ 08884",Spotswood, 08884
+298000,,,,1,1,,,Single Family Residential,,80.0,51.0,"0 First St,Dunellen, NJ 08812",Dunellen, 08812
+546000,2.0,2.5,1714.0,1,0,6.0,7327.0,Single Family Residential,1991,16.0,26.0,"57 Joann Ct,South Brunswick, NJ 08852",South Brunswick, 08852
+194999,2.0,2.0,1152.0,0,0,8.0,,Mobile/Manufactured Home,,24.0,33.0,"11 Dickens Rd,North Brunswick, NJ 08902",North Brunswick, 08902
+425000,3.0,1.5,1394.0,1,0,6.0,7122.0,Single Family Residential,1961,66.0,51.0,"12 Cedar Ave,Middlesex, NJ 08846",Middlesex, 08846
+995000,,,,1,0,,,Multi-Family (2-4 Unit),,74.0,43.0,"151 Hillside Ave,South River, NJ 08882",South River, 08882
+120000,1.0,1.0,802.0,1,0,,5496.0,Condo/Co-op,,43.0,62.0,"2335 Windrow Dr,Princeton, NJ 08540",Princeton, 08540
+239000,2.0,1.0,,1,0,,,Condo/Co-op,,28.0,41.0,"288 College Dr,Edison Twp., NJ 08817-5998",Edison Twp., 08817-5998
+299000,2.0,2.0,,0,0,6.0,2944.0,Single Family Residential,,26.0,31.0,"532A Old Nassau Rd,Monroe, NJ 08831",Monroe, 08831
+699000,5.0,2.5,2536.0,1,1,8.0,13730.0,Single Family Residential,1970,40.0,42.0,"57 S Brook Dr,Milltown, NJ 08850",Milltown, 08850
+465000,4.0,1.0,,1,1,7.0,8281.0,Single Family Residential,1944,71.0,45.0,"325 Desota Ave,Woodbridge Proper, NJ 07095",Woodbridge Proper, 07095
+939990,6.0,3.5,,1,0,,,Single Family Residential,1964,43.0,41.0,"11 Stillwell Rd,South Brunswick Twp., NJ 08824-1422",South Brunswick Twp., 08824-1422
+829900,4.0,2.5,2293.0,1,1,,12405.0,Single Family Residential,1997,19.0,31.0,"22 Putnam Rd,Monmouth Junction, NJ 08852",Monmouth Junction, 08852
+469000,3.0,1.5,1522.0,0,1,8.0,8864.0,Single Family Residential,1956,73.0,62.0,"396 S 7th Ave,Highland Park, NJ 08904",Highland Park, 08904
+399000,2.0,2.0,1668.0,0,1,6.0,6946.0,Condo/Co-op,2007,57.0,33.0,"3402 Cedar Village Blvd #402,East Brunswick, NJ 08816",East Brunswick, 08816
+1375000,5.0,4.0,,1,1,12.0,19577.0,Single Family Residential,2003,2.0,23.0,"22 Dominic Dr,Monroe, NJ 08831",Monroe, 08831
+479500,6.0,2.5,1798.0,1,0,8.0,7878.0,Single Family Residential,1952,71.0,49.0,"104 Schuyler Dr,Edison, NJ 08817",Edison, 08817
+339900,2.0,2.5,,1,0,4.0,6083.0,Single Family Residential,,29.0,25.0,"42 Delikat Ln,Sayreville, NJ 08872",Sayreville, 08872
+414900,2.0,2.0,1176.0,0,0,5.0,4479.0,Condo/Co-op,,47.0,31.0,"19 Lindsey Cir,Old Bridge, NJ 08857",Old Bridge, 08857
+971995,3.0,3.0,3037.0,1,0,,,,,6.0,26.0,"Elmsleigh Plan,Cranbury, NJ 08512",Cranbury, 08512
+439999,3.0,1.5,,1,0,10.0,6537.0,Single Family Residential,1960,40.0,39.0,"109 Bentley Ave,Old Bridge, NJ 08857",Old Bridge, 08857
+300000,1.0,1.0,508.0,1,0,7.0,4997.0,Single Family Residential,,67.0,43.0,"118 Sharon Garden Ct,Woodbridge Proper, NJ 07095",Woodbridge Proper, 07095
+850000,,,2240.0,1,1,15.0,12366.0,Multi-Family (2-4 Unit),1962,65.0,46.0,"57 Van Buren Ave,Metuchen, NJ 08840",Metuchen, 08840
+450000,4.0,2.0,1368.0,0,0,7.0,7327.0,Single Family Residential,1951,53.0,40.0,"56 Elliot Pl,Edison, NJ 08817",Edison, 08817
+535000,3.0,3.0,2576.0,1,1,,6539.0,Townhouse,1999,9.0,20.0,"26 Stonewyck Pl,Monroe Township, NJ 08831",Monroe Township, 08831
+1500000,,,,1,0,,,Vacant Land,,35.0,30.0,"0 Andrejewski Ave,South Amboy, NJ 08879",South Amboy, 08879
+950000,4.0,3.5,3566.0,1,1,,18516.0,Single Family Residential,1987,0.0,25.0,"106 N Bergen Mills Rd,Monroe Township, NJ 08831",Monroe Township, 08831
+699900,5.0,2.0,1821.0,1,1,8.0,12007.0,Single Family Residential,1962,6.0,26.0,"9 Mitchell Ave,East Brunswick, NJ 08816",East Brunswick, 08816
+199000,,,,1,0,,,Single Family Residential,,50.0,47.0,"1762 S 2nd St,Piscataway, NJ 08854",Piscataway, 08854
+399000,,,,1,1,,2779.0,Vacant Land,,3.0,27.0,"4 Parkview Ct,South Brunswick, NJ 08902",South Brunswick, 08902
+1299000,4.0,3.5,,1,0,,,Single Family Residential,2000,6.0,4.0,"15 Spruce Hollow Rd,Green Brook Twp., NJ 08812-1835",Green Brook Twp., 08812-1835
+549900,4.0,2.5,,1,1,8.0,8720.0,Single Family Residential,1948,48.0,39.0,"9 Howard St,Milltown, NJ 08850",Milltown, 08850
+680000,4.0,3.5,3076.0,1,1,9.0,15626.0,Single Family Residential,1969,15.0,10.0,"917 Hoover Dr,North Brunswick, NJ 08902",North Brunswick, 08902
+499000,4.0,1.5,1960.0,1,1,8.0,9568.0,Single Family Residential,1930,67.0,36.0,"316 S Pine Ave,South Amboy, NJ 08879",South Amboy, 08879
+629995,,,2240.0,1,1,4.0,10348.0,Single Family Residential,1981,64.0,51.0,"56 1st St,Perth Amboy, NJ 08861",Perth Amboy, 08861
+549900,3.0,3.0,1644.0,0,1,6.0,8201.0,Single Family Residential,1985,47.0,40.0,"3 Worth St,Jamesburg, NJ 08831",Jamesburg, 08831
+499000,,,,1,1,,4534.0,Other,,14.0,29.0,"169 Applegarth Rd,Monroe, NJ 08831",Monroe, 08831
+649000,,,,1,1,14.0,10597.0,Single Family Residential,1950,50.0,36.0,"200 Lincoln St,South Amboy, NJ 08879",South Amboy, 08879
+1799900,5.0,5.5,1356.0,1,1,14.0,9951.0,Other,1951,37.0,35.0,"21 Williams Rd,Edison, NJ 08820",Edison, 08820
+475000,4.0,3.5,,1,1,7.0,9195.0,Single Family Residential,,58.0,44.0,"4301 N Oaks Blvd N #4301,North Brunswick, NJ 08902",North Brunswick, 08902
+685490,3.0,2.0,1925.0,1,0,,,,,8.0,30.0,"Seville I Plan,Monroe Township, NJ 08831",Monroe Township, 08831
+735990,4.0,3.0,2510.0,1,0,,,,,8.0,30.0,"Seville II Plan,Monroe Township, NJ 08831",Monroe Township, 08831
+649900,4.0,2.0,,1,1,11.0,6437.0,Single Family Residential,1952,18.0,28.0,"95 Tunison Rd,New Brunswick, NJ 08901",New Brunswick, 08901
+689000,,,,1,0,13.0,11325.0,Single Family Residential,1920,72.0,68.0,"40 Baldwin St,New Brunswick, NJ 08901",New Brunswick, 08901
+597000,3.0,2.5,1809.0,0,1,10.0,11649.0,Single Family Residential,1984,36.0,32.0,"18 Heather Dr,Edison, NJ 08820",Edison, 08820
+765000,4.0,2.5,3404.0,1,1,10.0,15300.0,Single Family Residential,1971,8.0,30.0,"169 Fern Rd,East Brunswick, NJ 08816",East Brunswick, 08816
+675000,4.0,2.5,2310.0,1,1,8.0,12101.0,Single Family Residential,1979,29.0,31.0,"8 Meredith Rd,Edison, NJ 08817",Edison, 08817
+1129000,5.0,3.5,3420.0,1,1,12.0,18799.0,Single Family Residential,1928,40.0,36.0,"32 Oak Hills Rd,Edison, NJ 08820",Edison, 08820
+500000,4.0,2.0,1568.0,1,0,9.0,8247.0,Single Family Residential,1949,68.0,47.0,"551 Colgate Ave,Perth Amboy, NJ 08861",Perth Amboy, 08861
+650000,4.0,2.5,1899.0,1,1,8.0,9887.0,Single Family Residential,1994,6.0,31.0,"25 Veronica Ct,Old Bridge, NJ 08857",Old Bridge, 08857
+300000,3.0,1.0,,1,0,6.0,5724.0,Single Family Residential,,55.0,45.0,"638 Bergen St,South Plainfield, NJ 07080",South Plainfield, 07080
+1799900,5.0,5.0,,1,1,23.0,24040.0,Single Family Residential,2001,33.0,28.0,"7 Pershing Ct,North Brunswick, NJ 08902",North Brunswick, 08902
+799900,4.0,3.5,3052.0,1,1,10.0,15025.0,Single Family Residential,1986,10.0,33.0,"15 Wood Lake Ct,North Brunswick, NJ 08902",North Brunswick, 08902
+565000,,,1920.0,1,0,,8005.0,Single Family Residential,1822,94.0,64.0,"43 Division St,New Brunswick, NJ 08901",New Brunswick, 08901
+255000,,,,1,0,,,Single Family Residential,,63.0,45.0,"68 Virginia St,South River, NJ 08882",South River, 08882
+2250000,5.0,7.5,6015.0,1,1,20.0,44671.0,Single Family Residential,2004,17.0,28.0,"21 Southfield Rd,Edison, NJ 08820",Edison, 08820
+374959,3.0,2.0,624.0,1,0,3.0,5741.0,Single Family Residential,1949,52.0,41.0,"21 Winans Ave,Piscataway, NJ 08854",Piscataway, 08854
+699900,4.0,2.5,2153.0,1,1,8.0,12641.0,Single Family Residential,1962,64.0,35.0,"7 Blueberry Dr,Milltown, NJ 08850",Milltown, 08850
+514900,2.0,2.0,1447.0,1,1,8.0,4249.0,Single Family Residential,1927,54.0,53.0,"830 Amboy Ave,Edison, NJ 08837",Edison, 08837
+514000,4.0,1.0,,1,1,6.0,7824.0,Single Family Residential,1948,41.0,42.0,"6 Roosevelt Ave,East Brunswick, NJ 08816",East Brunswick, 08816
+340000,2.0,2.0,1335.0,0,0,6.0,6413.0,Condo/Co-op,2006,56.0,36.0,"540 Cranbury Rd #334,East Brunswick, NJ 08816",East Brunswick, 08816
+490000,2.0,2.0,1896.0,0,1,7.0,5382.0,Single Family Residential,1983,33.0,30.0,"38 Yorkshire Dr,Monroe, NJ 08831",Monroe, 08831
+739000,4.0,4.0,2000.0,1,1,7.0,12000.0,Other,,42.0,47.0,"16 S Main St,Edison, NJ 08837",Edison, 08837
+414900,2.0,2.0,1176.0,0,0,,2022.0,Condo/Co-op,1984,47.0,31.0,"19 Lindsey Cir #19,Old Bridge, NJ 08857",Old Bridge, 08857
+449000,4.0,1.0,1352.0,1,1,7.0,10205.0,Single Family Residential,1941,51.0,28.0,"255 Highland Dr,Milltown, NJ 08850",Milltown, 08850
+440000,2.0,2.5,1714.0,1,0,7.0,7870.0,Single Family Residential,1989,27.0,29.0,"34 Dawn Ct,South Brunswick, NJ 08852",South Brunswick, 08852
+850000,4.0,3.0,2200.0,0,1,8.0,12349.0,Single Family Residential,1978,46.0,46.0,"28 Baltic St,Edison, NJ 08820",Edison, 08820
+273000,,,,1,0,,,Single Family Residential,,70.0,50.0,"23 Catherine St,Carteret, NJ 07008",Carteret, 07008
+1200000,5.0,3.5,3911.0,1,1,10.0,30000.0,Single Family Residential,,4.0,26.0,"24 Lantern Ln NE,East Brunswick, NJ 08816",East Brunswick, 08816
+479000,4.0,2.0,,1,1,8.0,7301.0,Single Family Residential,1972,9.0,35.0,"273 Hanson Ave,Piscataway, NJ 08854",Piscataway, 08854
+789990,3.0,3.5,2913.0,1,0,,,,,6.0,26.0,"29 Fillmore Dr,Monroe Township, NJ 08831",Monroe Township, 08831
+669900,3.0,2.5,2699.0,1,0,,,,,2.0,26.0,"The Maple Plan,Old Bridge, NJ 08857",Old Bridge, 08857
+799990,3.0,3.5,2913.0,1,0,,,,,5.0,26.0,"21 Fillmore Dr,Monroe Township, NJ 08831",Monroe Township, 08831
+767990,3.0,3.5,2913.0,1,0,,,,,8.0,30.0,"Belmont Plan,Monroe Township, NJ 08831",Monroe Township, 08831
+624999,5.0,2.0,1710.0,1,0,9.0,9492.0,Single Family Residential,,37.0,32.0,"43 Creighton Cir,Old Bridge, NJ 08857",Old Bridge, 08857
+450000,2.0,2.0,1306.0,0,0,7.0,6767.0,Condo/Co-op,2021,1.0,24.0,"726 Stiller Ln #726,Monroe, NJ 08831",Monroe, 08831
+2195000,5.0,5.5,,1,1,17.0,7264.0,Vacant Land,,2.0,19.0,"16 Majestic Woods Dr,Monroe, NJ 08831",Monroe, 08831
+444900,3.0,2.0,,0,0,6.0,5605.0,Single Family Residential,,56.0,43.0,"229 Park Ave,Old Bridge, NJ 08857",Old Bridge, 08857
+1100000,4.0,3.0,2787.0,1,1,10.0,13667.0,Single Family Residential,2003,32.0,34.0,"11 Markham Cir,Old Bridge, NJ 08857",Old Bridge, 08857
+449000,3.0,2.0,,1,1,8.0,9942.0,Single Family Residential,1943,83.0,46.0,"178 Bergen St,Woodbridge Proper, NJ 07095",Woodbridge Proper, 07095
+475000,3.0,1.5,1581.0,1,1,7.0,9780.0,Single Family Residential,1916,75.0,47.0,"113 High St,Woodbridge Proper, NJ 07095",Woodbridge Proper, 07095
+397000,3.0,2.0,1510.0,1,0,8.0,12171.0,Single Family Residential,1920,89.0,77.0,"330 Summit Pl,Highland Park, NJ 08904",Highland Park, 08904
+529900,3.0,2.0,1331.0,1,0,,7140.0,Single Family Residential,1960,47.0,35.0,"19 Pyne Rd,South Brunswick, NJ 08824",South Brunswick, 08824
+650000,,,,1,1,,1080.0,Single Family Residential,1909,94.0,50.0,"216 First St,Perth Amboy, NJ 08861",Perth Amboy, 08861
+929000,5.0,2.5,3042.0,1,1,,13910.0,Single Family Residential,2001,6.0,28.0,"57 Monica Way,Monmouth Junction, NJ 08852",Monmouth Junction, 08852
+430000,3.0,1.5,1829.0,1,1,8.0,13182.0,Single Family Residential,1926,45.0,36.0,"114 Booream Ave,Milltown, NJ 08850",Milltown, 08850
+535000,3.0,3.0,,1,1,11.0,10150.0,Single Family Residential,1996,23.0,32.0,"2 Wintons Way,Monroe, NJ 08831",Monroe, 08831
+329000,2.0,2.0,1176.0,0,0,,2022.0,Condo/Co-op,1983,47.0,31.0,"118 Blake Ct #118,Old Bridge, NJ 08857",Old Bridge, 08857
+389900,2.0,2.5,1842.0,0,1,6.0,3730.0,Single Family Residential,,19.0,31.0,"F Chadwick Ln Unit F,Monroe, NJ 08831",Monroe, 08831
+895000,4.0,2.5,2125.0,1,1,,12516.0,Single Family Residential,1996,42.0,40.0,"29 Breeze Dr,Dayton, NJ 08810",Dayton, 08810
+725000,3.0,2.5,1792.0,1,0,10.0,12264.0,Single Family Residential,1984,68.0,49.0,"70 Voorhees Pl,Metuchen, NJ 08840",Metuchen, 08840
+645000,5.0,2.0,,0,1,9.0,6681.0,Single Family Residential,1972,58.0,37.0,"45 Nelson Ave,Monroe, NJ 08816",Monroe, 08816
+729000,4.0,4.0,1004.0,1,1,8.0,5644.0,Single Family Residential,1930,53.0,41.0,"24 Chestnut St,East Brunswick, NJ 08816",East Brunswick, 08816
+995000,4.0,3.0,2674.0,1,0,,12048.0,Single Family Residential,1860,48.0,39.0,"9 Park Pl E,Cranbury, NJ 08512",Cranbury, 08512
+745000,4.0,2.5,1726.0,1,1,7.0,12566.0,Single Family Residential,1985,25.0,35.0,"36 Lavender Dr,Edison, NJ 08820",Edison, 08820
+374900,3.0,2.5,,1,0,6.0,8618.0,Single Family Residential,1986,52.0,38.0,"125 Nathan Dr,North Brunswick, NJ 08902",North Brunswick, 08902
+439900,2.0,2.0,1280.0,1,1,6.0,2889.0,Single Family Residential,,31.0,32.0,"20 Dolley Madison Dr Unit A,Monroe, NJ 08831",Monroe, 08831
+480000,4.0,2.0,1836.0,0,1,8.0,7124.0,Single Family Residential,1952,50.0,46.0,"50 Marion St,Carteret, NJ 07008",Carteret, 07008
+415000,2.0,2.0,,0,1,6.0,3052.0,Single Family Residential,,13.0,28.0,"420 Andover Dr Unit A,Monroe, NJ 08831",Monroe, 08831
+135000,2.0,1.0,,0,0,5.0,,Mobile/Manufactured Home,,20.0,29.0,"93 Vincent Ct,Spotswood, NJ 08884",Spotswood, 08884
+531990,2.0,2.0,1004.0,1,0,,,,,31.0,36.0,"Bowery Plan,New Brunswick, NJ 08901",New Brunswick, 08901
+400000,3.0,2.5,,0,0,7.0,6740.0,Single Family Residential,,32.0,41.0,"44 Dallenbach Ln,East Brunswick, NJ 08816",East Brunswick, 08816
+567720,4.0,2.5,3070.0,1,0,,,Single Family Residential,1987,76.0,51.0,"66 Carteret Ave,Carteret Boro, NJ 07008-2517",Carteret Boro, 07008-2517
+899000,5.0,2.5,3366.0,1,1,9.0,16389.0,Single Family Residential,1970,4.0,30.0,"51 Independence Dr,East Brunswick, NJ 08816",East Brunswick, 08816
+224900,2.0,2.0,1374.0,0,0,7.0,1716.0,Condo/Co-op,1973,20.0,32.0,"248N Mystic Ln Unit 248N,Monroe, NJ 08831",Monroe, 08831
+249999,2.0,1.0,,0,1,6.0,1384.0,Condo/Co-op,,29.0,31.0,"137 N Plymouth Ln,Monroe, NJ 08831",Monroe, 08831
+1450000,4.0,4.5,5000.0,1,1,12.0,1.0,Vacant Land,,16.0,27.0,"115 NE Hardenburg Ln,East Brunswick, NJ 08816",East Brunswick, 08816
+695000,4.0,2.5,2148.0,1,1,8.0,1.0,Vacant Land,,63.0,51.0,"5 George St,Milltown, NJ 08850",Milltown, 08850
+519900,3.0,2.5,1968.0,0,1,11.0,8816.0,Condo/Co-op,,15.0,37.0,"27 Catherine Ct,South Amboy, NJ 08879",South Amboy, 08879
+459900,4.0,2.0,1468.0,1,1,9.0,4220.0,Single Family Residential,1926,81.0,67.0,"12 Holmes Ave,South River, NJ 08882",South River, 08882
+894990,4.0,2.5,2999.0,1,0,,,,,0.0,25.0,"Brookdale Plan,Old Bridge, NJ 08857",Old Bridge, 08857
+650000,4.0,3.5,2672.0,1,1,11.0,12497.0,Single Family Residential,1961,57.0,55.0,"541 Allgair Ave,North Brunswick, NJ 08902",North Brunswick, 08902
+1350000,5.0,4.5,4581.0,1,1,12.0,24063.0,Single Family Residential,1988,7.0,25.0,"7 Golden Pond Dr,East Brunswick, NJ 08850",East Brunswick, 08850
+350000,2.0,2.0,1528.0,1,1,,2487.0,Single Family Residential,,22.0,29.0,"25-D James Buchanan Dr,Monroe Township, NJ 08831",Monroe Township, 08831
